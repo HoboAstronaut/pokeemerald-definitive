@@ -1,2 +1,3 @@
-MtEmberExterior_MapScripts:
+MtEmberExterior_MapScripts::
 	.byte 0
+
