@@ -21,42 +21,42 @@
       "x": 5,
       "y": 26,
       "elevation": 0,
-      "dest_map": "MAP_SIX_ISLAND_PATTERN_BUSH",
-      "dest_warp_id": "0"
+      "dest_map": "MAP_SIX_ISLAND_GREEN_PATH",
+      "dest_warp_id": "2"
     },
     {
       "x": 3,
       "y": 26,
       "elevation": 0,
-      "dest_map": "MAP_SIX_ISLAND_PATTERN_BUSH",
-      "dest_warp_id": "0"
+      "dest_map": "MAP_SIX_ISLAND_GREEN_PATH",
+      "dest_warp_id": "3"
     },
     {
       "x": 4,
       "y": 26,
       "elevation": 0,
-      "dest_map": "MAP_SIX_ISLAND_PATTERN_BUSH",
-      "dest_warp_id": "0"
+      "dest_map": "MAP_SIX_ISLAND_GREEN_PATH",
+      "dest_warp_id": "3"
     },
     {
       "x": 56,
       "y": 26,
       "elevation": 0,
-      "dest_map": "MAP_SIX_ISLAND_PATTERN_BUSH",
-      "dest_warp_id": "0"
+      "dest_map": "MAP_SIX_ISLAND_GREEN_PATH",
+      "dest_warp_id": "1"
     },
     {
       "x": 55,
       "y": 26,
       "elevation": 0,
-      "dest_map": "MAP_SIX_ISLAND_PATTERN_BUSH",
+      "dest_map": "MAP_SIX_ISLAND_GREEN_PATH",
       "dest_warp_id": "0"
     },
     {
       "x": 54,
       "y": 26,
       "elevation": 0,
-      "dest_map": "MAP_SIX_ISLAND_PATTERN_BUSH",
+      "dest_map": "MAP_SIX_ISLAND_GREEN_PATH",
       "dest_warp_id": "0"
     }
   ],

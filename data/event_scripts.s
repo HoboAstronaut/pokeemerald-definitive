@@ -1057,6 +1057,34 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/text/save.inc"
 	.include "data/text/birch_speech.inc"
 
+	.include "data/maps/OneIsland/scripts.inc"
+
+	.include "data/maps/OneIslandTreasureBeach/scripts.inc"
+
+	.include "data/maps/OneIslandKindleRoad/scripts.inc"
+
+	.include "data/maps/OneIslandMtEmberFoot/scripts.inc"
+
+	.include "data/maps/MtEmberExterior/scripts.inc"
+
+	.include "data/maps/MtEmber_SummitPath1F/scripts.inc"
+
+	.include "data/maps/MtEmberSummitPath2F/scripts.inc"
+
+	.include "data/maps/MtEmberSummitPath3F/scripts.inc"
+
+	.include "data/maps/MtEmberSummit/scripts.inc"
+
+	.include "data/maps/TwoIsland/scripts.inc"
+
+	.include "data/maps/TwoIslePort/scripts.inc"
+
+	.include "data/maps/CapeBrink/scripts.inc"
+
+	.include "data/maps/ThreeIslePort/scripts.inc"
+
+	.include "data/maps/ThreeIsland/scripts.inc"
+
 	.include "data/maps/ThreeIslandBondBridge/scripts.inc"
 
 	.include "data/maps/OneIslandHarbor/scripts.inc"
@@ -1080,6 +1108,8 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/FiveIsland/scripts.inc"
 
 	.include "data/maps/TestMap/scripts.inc"
+
+	.include "data/maps/FiveIslandMeadow/scripts.inc"
 
 	.include "data/maps/FiveIslandMemorialPillar/scripts.inc"
 
@@ -1145,7 +1175,11 @@ Common_EventScript_LegendaryFlewAway::
 
 	.include "data/maps/SevenIslandTrainerTower/scripts.inc"
 
+	.include "data/maps/SevenIslandCanyonEntrance/scripts.inc"
+
 	.include "data/maps/SevenIslandSevaultCanyon/scripts.inc"
+
+	.include "data/maps/SevenIslandSevaultCanyonTanobyKey/scripts.inc"
 
 	.include "data/maps/SevenIslandTanobyRuins/scripts.inc"
 

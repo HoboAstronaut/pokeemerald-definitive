@@ -28,7 +28,34 @@
 
   ],
   "warp_events": [
-
+    {
+      "x": 63,
+      "y": 9,
+      "elevation": 0,
+      "dest_map": "MAP_SIX_ISLAND_PATTERN_BUSH",
+      "dest_warp_id": "3"
+    },
+    {
+      "x": 64,
+      "y": 9,
+      "elevation": 0,
+      "dest_map": "MAP_SIX_ISLAND_PATTERN_BUSH",
+      "dest_warp_id": "5"
+    },
+    {
+      "x": 46,
+      "y": 9,
+      "elevation": 0,
+      "dest_map": "MAP_SIX_ISLAND_PATTERN_BUSH",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 45,
+      "y": 9,
+      "elevation": 0,
+      "dest_map": "MAP_SIX_ISLAND_PATTERN_BUSH",
+      "dest_warp_id": "0"
+    }
   ],
   "coord_events": [
 

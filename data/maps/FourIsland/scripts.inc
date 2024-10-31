@@ -1,2 +1,2 @@
-FourIsland_MapScripts:
+FourIsland_MapScripts::
 	.byte 0

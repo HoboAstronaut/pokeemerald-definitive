@@ -1,2 +1,2 @@
-SevenIslandTanobyRuinsScufibChamber_MapScripts:
+SevenIslandTanobyRuinsScufibChamber_MapScripts::
 	.byte 0

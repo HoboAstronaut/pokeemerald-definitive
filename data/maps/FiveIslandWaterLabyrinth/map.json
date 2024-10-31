@@ -17,6 +17,11 @@
       "map": "MAP_FIVE_ISLAND",
       "offset": 48,
       "direction": "down"
+    },
+    {
+      "map": "MAP_FIVE_ISLAND_RESORT_GORGEOUS",
+      "offset": 48,
+      "direction": "up"
     }
   ],
   "object_events": [
