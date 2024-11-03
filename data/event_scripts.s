@@ -1218,3 +1218,17 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/SevenIslandTanobyRuinsScufibChamber/scripts.inc"
 
 	.include "data/maps/SevenIslandTanobyRuinsRixyChamber/scripts.inc"
+
+	.include "data/maps/FiveIslandMeadowHouse/scripts.inc"
+
+	.include "data/maps/SevenIslandTanobyRuinsViapoisChamber/scripts.inc"
+
+	.include "data/maps/SixIslandDottedHole1F/scripts.inc"
+
+	.include "data/maps/SixIslandDottedHoleB1F/scripts.inc"
+
+	.include "data/maps/SixIslandDottedHoleB2F/scripts.inc"
+
+	.include "data/maps/SixIslandDottedHoleB3F/scripts.inc"
+
+	.include "data/maps/SixIslandDottedHoleB4F/scripts.inc"

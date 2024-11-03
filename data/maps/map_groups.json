@@ -656,7 +656,8 @@
     "FourIslandHarbor"
   ],
   "gMapGroup_IndoorFiveIsland": [
-    "FiveIslandHarbor"
+    "FiveIslandHarbor",
+    "FiveIslandMeadowHouse"
   ],
   "gMapGroup_IndoorSixIsland": [
     "SixIslandHarbor"
@@ -699,7 +700,13 @@
     "SevenIslandTanobyRuinsWeepthChamber",
     "SevenIslandTanobyRuinsDilfordChamber",
     "SevenIslandTanobyRuinsScufibChamber",
-    "SevenIslandTanobyRuinsRixyChamber"
+    "SevenIslandTanobyRuinsRixyChamber",
+    "SevenIslandTanobyRuinsViapoisChamber",
+    "SixIslandDottedHole1F",
+    "SixIslandDottedHoleB1F",
+    "SixIslandDottedHoleB2F",
+    "SixIslandDottedHoleB3F",
+    "SixIslandDottedHoleB4F"
   ],
   "gMapGroup_DungeonsKanto": [
 

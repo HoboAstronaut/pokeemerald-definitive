@@ -1,11 +1,9 @@
-# Pokémon Emerald
+This is a romhack of Pokemon Emerald using pret's decompilation project for the game.
 
-This is a decompilation of Pokémon Emerald.
+You build it the same as you do any other decomp based hack. Check their install.md for details if you don't know.
 
-It builds the following ROM:
+Currently this is an incomplete build, with just the Sevii Islands partially complete as maps. You can reach them via a disembodied door in Petalburg City.
 
-* [**pokeemerald.gba**](https://datomatic.no-intro.org/index.php?page=show_record&s=23&n=1961) `sha1: f3ae088181bf583e55daf962a92bb46f4f1d07b7`
+Encounters are partially complete, as are warps. Ferry functionality is currently nil, but you can use fly from any of the outdoor maps back to Petalburg. 
 
-To set up the repository, see [INSTALL.md](INSTALL.md).
-
-For contacts and other pret projects, see [pret.github.io](https://pret.github.io/).
+For that reason, I recommend using a save file that at least has Surf to explore fully, and Fly to get back to Hoenn.

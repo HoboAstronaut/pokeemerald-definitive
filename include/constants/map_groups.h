@@ -613,7 +613,8 @@
 #define MAP_FOUR_ISLAND_HARBOR (0 | (37 << 8))
 
 // gMapGroup_IndoorFiveIsland
-#define MAP_FIVE_ISLAND_HARBOR (0 | (38 << 8))
+#define MAP_FIVE_ISLAND_HARBOR       (0 | (38 << 8))
+#define MAP_FIVE_ISLAND_MEADOW_HOUSE (1 | (38 << 8))
 
 // gMapGroup_IndoorSixIsland
 #define MAP_SIX_ISLAND_HARBOR (0 | (39 << 8))
@@ -657,6 +658,12 @@
 #define MAP_SEVEN_ISLAND_TANOBY_RUINS_DILFORD_CHAMBER (32 | (41 << 8))
 #define MAP_SEVEN_ISLAND_TANOBY_RUINS_SCUFIB_CHAMBER  (33 | (41 << 8))
 #define MAP_SEVEN_ISLAND_TANOBY_RUINS_RIXY_CHAMBER    (34 | (41 << 8))
+#define MAP_SEVEN_ISLAND_TANOBY_RUINS_VIAPOIS_CHAMBER (35 | (41 << 8))
+#define MAP_SIX_ISLAND_DOTTED_HOLE1F                  (36 | (41 << 8))
+#define MAP_SIX_ISLAND_DOTTED_HOLE_B1F                (37 | (41 << 8))
+#define MAP_SIX_ISLAND_DOTTED_HOLE_B2F                (38 | (41 << 8))
+#define MAP_SIX_ISLAND_DOTTED_HOLE_B3F                (39 | (41 << 8))
+#define MAP_SIX_ISLAND_DOTTED_HOLE_B4F                (40 | (41 << 8))
 
 // gMapGroup_DungeonsKanto
 

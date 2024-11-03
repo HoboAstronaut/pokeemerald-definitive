@@ -33,7 +33,13 @@
 
   ],
   "warp_events": [
-
+    {
+      "x": 11,
+      "y": 21,
+      "elevation": 0,
+      "dest_map": "MAP_FIVE_ISLAND_MEADOW_HOUSE",
+      "dest_warp_id": "0"
+    }
   ],
   "coord_events": [
 
