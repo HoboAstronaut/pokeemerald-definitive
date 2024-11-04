@@ -664,6 +664,7 @@
 #define MAP_SIX_ISLAND_DOTTED_HOLE_B2F                (38 | (41 << 8))
 #define MAP_SIX_ISLAND_DOTTED_HOLE_B3F                (39 | (41 << 8))
 #define MAP_SIX_ISLAND_DOTTED_HOLE_B4F                (40 | (41 << 8))
+#define MAP_SIX_ISLAND_DOTTED_HOLE_SAPPHIRE_ROOM      (41 | (41 << 8))
 
 // gMapGroup_DungeonsKanto
 

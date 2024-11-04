@@ -5457,7 +5457,7 @@
       "border_width": 2,
       "border_height": 2,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Dewford",
+      "secondary_tileset": "gTileset_Sevii4567",
       "border_filepath": "data/layouts/ThreeIsland/border.bin",
       "blockdata_filepath": "data/layouts/ThreeIsland/map.bin"
     },
@@ -6348,6 +6348,18 @@
       "secondary_tileset": "gTileset_NavelRock",
       "border_filepath": "data/layouts/SixIslandDottedHoleB4F/border.bin",
       "blockdata_filepath": "data/layouts/SixIslandDottedHoleB4F/map.bin"
+    },
+    {
+      "id": "LAYOUT_SIX_ISLAND_DOTTED_HOLE_SAPPHIRE_ROOM",
+      "name": "SixIslandDottedHoleSapphireRoom_Layout",
+      "width": 16,
+      "height": 15,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_NavelRock",
+      "border_filepath": "data/layouts/SixIslandDottedHoleSapphireRoom/border.bin",
+      "blockdata_filepath": "data/layouts/SixIslandDottedHoleSapphireRoom/map.bin"
     }
   ]
 }

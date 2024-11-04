@@ -17,7 +17,13 @@
 
   ],
   "warp_events": [
-
+    {
+      "x": 12,
+      "y": 23,
+      "elevation": 0,
+      "dest_map": "MAP_FOUR_ISLAND_ICEFALL_CAVE1F",
+      "dest_warp_id": "0"
+    }
   ],
   "coord_events": [
 
