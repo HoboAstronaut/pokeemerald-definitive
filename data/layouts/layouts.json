@@ -5445,7 +5445,7 @@
       "border_width": 2,
       "border_height": 2,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Dewford",
+      "secondary_tileset": "gTileset_Sevii4567",
       "border_filepath": "data/layouts/ThreeIslePort/border.bin",
       "blockdata_filepath": "data/layouts/ThreeIslePort/map.bin"
     },
