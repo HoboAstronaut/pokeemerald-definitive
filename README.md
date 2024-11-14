@@ -6,4 +6,4 @@ Currently this is an incomplete build, with just the Sevii Islands partially com
 
 Encounters are partially complete, as are warps. Ferry functionality is currently nil, but you can use fly from any of the outdoor maps back to Petalburg. 
 
-For that reason, I recommend using a save file that at least has Surf to explore fully, and Fly to get back to Hoenn.
+For that reason, I recommend using a save file that at least has Surf to explore fully, and Fly to get back to Hoenn. For the moment, vanilla saves function well. If need be, I will try to provide a save file for exploring when future commits that add more trainers alter the saveblock.

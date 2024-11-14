@@ -638,7 +638,9 @@
   "gMapGroup_IndoorOneIsland": [
     "OneIslandHouse1",
     "OneIslandHouse2",
-    "OneIslandHarbor"
+    "OneIslandHarbor",
+    "OneIslandPokemonCenter1F",
+    "OneIslandPokemonCenter2F"
   ],
   "gMapGroup_IndoorTwoIsland": [
     "TwoIslandHouse1",

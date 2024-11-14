@@ -6360,6 +6360,30 @@
       "secondary_tileset": "gTileset_NavelRock",
       "border_filepath": "data/layouts/SixIslandDottedHoleSapphireRoom/border.bin",
       "blockdata_filepath": "data/layouts/SixIslandDottedHoleSapphireRoom/map.bin"
+    },
+    {
+      "id": "LAYOUT_ONE_ISLAND_POKEMON_CENTER1F",
+      "name": "OneIslandPokemonCenter1F_Layout",
+      "width": 14,
+      "height": 9,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_PokemonCenter",
+      "border_filepath": "data/layouts/OneIslandPokemonCenter1F/border.bin",
+      "blockdata_filepath": "data/layouts/OneIslandPokemonCenter1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_ONE_ISLAND_POKEMON_CENTER2F",
+      "name": "OneIslandPokemonCenter2F_Layout",
+      "width": 14,
+      "height": 10,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_Building",
+      "secondary_tileset": "gTileset_PokemonCenter",
+      "border_filepath": "data/layouts/OneIslandPokemonCenter2F/border.bin",
+      "blockdata_filepath": "data/layouts/OneIslandPokemonCenter2F/map.bin"
     }
   ]
 }

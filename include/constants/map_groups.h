@@ -593,9 +593,11 @@
 #define MAP_ROUTE124_DIVING_TREASURE_HUNTERS_HOUSE (0 | (33 << 8))
 
 // gMapGroup_IndoorOneIsland
-#define MAP_ONE_ISLAND_HOUSE1 (0 | (34 << 8))
-#define MAP_ONE_ISLAND_HOUSE2 (1 | (34 << 8))
-#define MAP_ONE_ISLAND_HARBOR (2 | (34 << 8))
+#define MAP_ONE_ISLAND_HOUSE1           (0 | (34 << 8))
+#define MAP_ONE_ISLAND_HOUSE2           (1 | (34 << 8))
+#define MAP_ONE_ISLAND_HARBOR           (2 | (34 << 8))
+#define MAP_ONE_ISLAND_POKEMON_CENTER1F (3 | (34 << 8))
+#define MAP_ONE_ISLAND_POKEMON_CENTER2F (4 | (34 << 8))
 
 // gMapGroup_IndoorTwoIsland
 #define MAP_TWO_ISLAND_HOUSE1 (0 | (35 << 8))

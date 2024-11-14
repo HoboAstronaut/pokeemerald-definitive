@@ -214,7 +214,19 @@
 #define MAPSEC_ALTERING_CAVE                0xD2
 #define MAPSEC_NAVEL_ROCK                   0xD3
 #define MAPSEC_TRAINER_HILL                 0xD4
-#define MAPSEC_NONE                         0xD5
+#define MAPSEC_ROUTE_26                     0xD5
+#define MAPSEC_ROUTE_27                     0xD6
+#define MAPSEC_TOHJO_FALLS                  0xD7
+#define MAPSEC_MT_SILVER                    0xD8
+#define MAPSEC_ROUTE_28                     0xD9
+#define MAPSEC_NEW_BARK_TOWN                0xDA
+#define MAPSEC_ROUTE_29                     0xDB
+#define MAPSEC_CHERRYGROVE_CITY             0xDC
+#define MAPSEC_ROUTE_30                     0xDD
+#define MAPSEC_ROUTE_31                     0xDE
+#define MAPSEC_VIOLET_CITY                  0xDF
+#define MAPSEC_DARK_CAVE                    0xE0
+#define MAPSEC_NONE                         0xE1
 
 #define METLOC_SPECIAL_EGG                  0xFD
 #define METLOC_IN_GAME_TRADE                0xFE

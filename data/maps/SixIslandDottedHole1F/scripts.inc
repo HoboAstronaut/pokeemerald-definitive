@@ -1,2 +1,9 @@
 SixIslandDottedHole1F_MapScripts::
+	map_script MAP_SCRIPT_ON_FRAME_TABLE, CaveHole_CheckFallDownHole
+	map_script MAP_SCRIPT_ON_RESUME, SixIslandDottedHole1F_SetHoleWarp
 	.byte 0
+
+SixIslandDottedHole1F_SetHoleWarp:
+	setholewarp MAP_SIX_ISLAND_DOTTED_HOLE_B1F
+	end
+

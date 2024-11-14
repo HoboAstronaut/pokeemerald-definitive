@@ -1234,3 +1234,7 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/SixIslandDottedHoleB4F/scripts.inc"
 
 	.include "data/maps/SixIslandDottedHoleSapphireRoom/scripts.inc"
+
+	.include "data/maps/OneIslandPokemonCenter1F/scripts.inc"
+
+	.include "data/maps/OneIslandPokemonCenter2F/scripts.inc"
