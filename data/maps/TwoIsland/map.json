@@ -68,6 +68,20 @@
       "elevation": 0,
       "dest_map": "MAP_TWO_ISLAND",
       "dest_warp_id": "0"
+    },
+    {
+      "x": 31,
+      "y": 11,
+      "elevation": 0,
+      "dest_map": "MAP_TWO_ISLAND_HOUSE1",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 48,
+      "y": 14,
+      "elevation": 0,
+      "dest_map": "MAP_TWO_ISLAND_HOUSE2",
+      "dest_warp_id": "0"
     }
   ],
   "coord_events": [

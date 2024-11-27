@@ -4,6 +4,6 @@ SixIslandDottedHole1F_MapScripts::
 	.byte 0
 
 SixIslandDottedHole1F_SetHoleWarp:
-	setholewarp MAP_SIX_ISLAND_DOTTED_HOLE_B1F
+	setholewarp MAP_SIX_ISLAND_DOTTED_HOLE_SAPPHIRE_ROOM
 	end
 

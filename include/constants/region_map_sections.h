@@ -226,11 +226,39 @@
 #define MAPSEC_ROUTE_31                     0xDE
 #define MAPSEC_VIOLET_CITY                  0xDF
 #define MAPSEC_DARK_CAVE                    0xE0
-#define MAPSEC_NONE                         0xE1
+#define MAPSEC_RUINS_OF_ALPH                0xE1
+#define MAPSEC_ROUTE_32                     0xE2
+#define MAPSEC_UNION_CAVE                   0xE3
+#define MAPSEC_ROUTE_33                     0xE4
+#define MAPSEC_AZALEA_TOWN                  0xE5
+#define MAPSEC_ILEX_FOREST                  0xE6
+#define MAPSEC_ROUTE_34                     0xE7
+#define MAPSEC_GOLDENROD_CITY               0xE8
+#define MAPSEC_ROUTE_35                     0xE9
+#define MAPSEC_NATIONAL_PARK                0xEA
+#define MAPSEC_ROUTE_36                     0xEB
+#define MAPSEC_ROUTE_37                     0xEC
+#define MAPSEC_ECRUTEAK_CITY                0xED
+#define MAPSEC_BURNED_TOWER                 0xEE
+#define MAPSEC_BELL_TOWER                   0xEF
+#define MAPSEC_ROUTE_38                     0xF0
+#define MAPSEC_ROUTE_39                     0xF1
+#define MAPSEC_OLIVINE_CITY                 0xF2
+#define MAPSEC_ROUTE_40                     0xF3
+#define MAPSEC_ROUTE_41                     0xF4
+#define MAPSEC_WHIRL_ISLANDS                0xF5
+#define MAPSEC_CIANWOOD_CITY                0xF6
+#define MAPSEC_ROUTE_42                     0xF7
+#define MAPSEC_MT_MORTAR                    0xF8
+#define MAPSEC_MAHOGANY_TOWN                0xF9
+#define MAPSEC_ROUTE_43                     0xFA
+#define MAPSEC_LAKE_OF_RAGE                 0xFB
+#define MAPSEC_NONE                         0xFC
 
 #define METLOC_SPECIAL_EGG                  0xFD
 #define METLOC_IN_GAME_TRADE                0xFE
 #define METLOC_FATEFUL_ENCOUNTER            0xFF
+
 
 #define KANTO_MAPSEC_START  MAPSEC_PALLET_TOWN
 #define KANTO_MAPSEC_END    MAPSEC_SPECIAL_AREA

@@ -18,11 +18,18 @@
   ],
   "warp_events": [
     {
+      "x": 7,
+      "y": 9,
+      "elevation": 0,
+      "dest_map": "MAP_SIX_ISLAND_DOTTED_HOLE_SAPPHIRE_ROOM",
+      "dest_warp_id": "1"
+    },
+    {
       "x": 11,
       "y": 7,
       "elevation": 0,
       "dest_map": "MAP_SIX_ISLAND_DOTTED_HOLE1F",
-      "dest_warp_id": "1"
+      "dest_warp_id": "0"
     }
   ],
   "coord_events": [
