@@ -646,26 +646,42 @@
     "TwoIslandHouse1",
     "TwoIslandHouse2",
     "TwoIslandHouse3",
-    "TwoIslandHarbor"
+    "TwoIslandHarbor",
+    "TwoIslandPokemonCenter1F",
+    "TwoIslandPokemonCenter2F"
   ],
   "gMapGroup_IndoorThreeIsland": [
     "ThreeIslandHouse1",
     "ThreeIslandHouse2",
     "ThreeIslandHouse3",
-    "ThreeIslandHarbor"
+    "ThreeIslandHarbor",
+    "ThreeIslandPokemonCenter1F",
+    "ThreeIslandPokemonCenter2F",
+    "ThreeIslandMart"
   ],
   "gMapGroup_IndoorFourIsland": [
-    "FourIslandHarbor"
+    "FourIslandHarbor",
+    "FourIslandPokemonCenter1F",
+    "FourIslandPokemonCenter2F",
+    "FourIslandMart"
   ],
   "gMapGroup_IndoorFiveIsland": [
     "FiveIslandHarbor",
-    "FiveIslandMeadowHouse"
+    "FiveIslandMeadowHouse",
+    "FiveIslandPokemonCenter1F",
+    "FiveIslandPokemonCenter2F"
   ],
   "gMapGroup_IndoorSixIsland": [
-    "SixIslandHarbor"
+    "SixIslandHarbor",
+    "SixIslandPokemonCenter1F",
+    "SixIslandPokemonCenter2F"
   ],
   "gMapGroup_IndoorSevenIsland": [
-    "SevenIslandHarbor"
+    "SevenIslandHarbor",
+    "SevenIslandPokemonCenter1F",
+    "SevenIslandPokemonCenter2F",
+    "SevenIslandMart",
+    "SixIslandMart"
   ],
   "gMapGroup_DungeonsSevii": [
     "MtEmberExterior",

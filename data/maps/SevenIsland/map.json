@@ -34,6 +34,20 @@
       "elevation": 0,
       "dest_map": "MAP_SEVEN_ISLAND_HARBOR",
       "dest_warp_id": "0"
+    },
+    {
+      "x": 12,
+      "y": 2,
+      "elevation": 0,
+      "dest_map": "MAP_SEVEN_ISLAND_POKEMON_CENTER1F",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 4,
+      "y": 8,
+      "elevation": 0,
+      "dest_map": "MAP_SEVEN_ISLAND_MART",
+      "dest_warp_id": "0"
     }
   ],
   "coord_events": [

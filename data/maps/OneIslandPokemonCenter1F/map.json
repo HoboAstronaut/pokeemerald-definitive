@@ -30,6 +30,13 @@
       "elevation": 0,
       "dest_map": "MAP_ONE_ISLAND",
       "dest_warp_id": "3"
+    },
+    {
+      "x": 1,
+      "y": 6,
+      "elevation": 0,
+      "dest_map": "MAP_ONE_ISLAND_POKEMON_CENTER2F",
+      "dest_warp_id": "0"
     }
   ],
   "coord_events": [

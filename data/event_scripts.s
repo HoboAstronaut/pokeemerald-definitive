@@ -1238,3 +1238,35 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/OneIslandPokemonCenter1F/scripts.inc"
 
 	.include "data/maps/OneIslandPokemonCenter2F/scripts.inc"
+
+	.include "data/maps/TwoIslandPokemonCenter1F/scripts.inc"
+
+	.include "data/maps/TwoIslandPokemonCenter2F/scripts.inc"
+
+	.include "data/maps/ThreeIslandPokemonCenter1F/scripts.inc"
+
+	.include "data/maps/ThreeIslandPokemonCenter2F/scripts.inc"
+
+	.include "data/maps/FourIslandPokemonCenter1F/scripts.inc"
+
+	.include "data/maps/FourIslandPokemonCenter2F/scripts.inc"
+
+	.include "data/maps/FiveIslandPokemonCenter1F/scripts.inc"
+
+	.include "data/maps/FiveIslandPokemonCenter2F/scripts.inc"
+
+	.include "data/maps/SixIslandPokemonCenter1F/scripts.inc"
+
+	.include "data/maps/SixIslandPokemonCenter2F/scripts.inc"
+
+	.include "data/maps/SevenIslandPokemonCenter1F/scripts.inc"
+
+	.include "data/maps/SevenIslandPokemonCenter2F/scripts.inc"
+
+	.include "data/maps/ThreeIslandMart/scripts.inc"
+
+	.include "data/maps/FourIslandMart/scripts.inc"
+
+	.include "data/maps/SevenIslandMart/scripts.inc"
+
+	.include "data/maps/SixIslandMart/scripts.inc"
