@@ -1270,3 +1270,17 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/SevenIslandMart/scripts.inc"
 
 	.include "data/maps/SixIslandMart/scripts.inc"
+
+	.include "data/maps/PalletTown/scripts.inc"
+
+	.include "data/maps/Route1/scripts.inc"
+
+	.include "data/maps/ViridianCity/scripts.inc"
+
+	.include "data/maps/Route2/scripts.inc"
+
+	.include "data/maps/PewterCity/scripts.inc"
+
+	.include "data/maps/Route3/scripts.inc"
+
+	.include "data/maps/Route4/scripts.inc"

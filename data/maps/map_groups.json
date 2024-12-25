@@ -766,7 +766,13 @@
     "SevenIslandTanobyRuins"
   ],
   "gMapGroup_TownsAndRoutesKanto": [
-
+    "PalletTown",
+    "Route1",
+    "ViridianCity",
+    "Route2",
+    "PewterCity",
+    "Route3",
+    "Route4"
   ],
   "gMapGroup_TownsAndRoutesJohto": [
 

@@ -222,3 +222,9 @@ const u16 gMetatileAttributes_Test[] = INCBIN_U16("data/tilesets/secondary/test/
 
 const u16 gMetatiles_TanobyRuins[] = INCBIN_U16("data/tilesets/secondary/tanoby_ruins/metatiles.bin");
 const u16 gMetatileAttributes_TanobyRuins[] = INCBIN_U16("data/tilesets/secondary/tanoby_ruins/metatile_attributes.bin");
+
+const u16 gMetatiles_PalletTown[] = INCBIN_U16("data/tilesets/secondary/pallet_town/metatiles.bin");
+const u16 gMetatileAttributes_PalletTown[] = INCBIN_U16("data/tilesets/secondary/pallet_town/metatile_attributes.bin");
+
+const u16 gMetatiles_Viridian[] = INCBIN_U16("data/tilesets/secondary/viridian/metatiles.bin");
+const u16 gMetatileAttributes_Viridian[] = INCBIN_U16("data/tilesets/secondary/viridian/metatile_attributes.bin");

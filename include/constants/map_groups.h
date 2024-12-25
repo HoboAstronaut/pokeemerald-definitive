@@ -721,6 +721,13 @@
 #define MAP_SEVEN_ISLAND_TANOBY_RUINS        (29 | (44 << 8))
 
 // gMapGroup_TownsAndRoutesKanto
+#define MAP_PALLET_TOWN   (0 | (45 << 8))
+#define MAP_ROUTE1        (1 | (45 << 8))
+#define MAP_VIRIDIAN_CITY (2 | (45 << 8))
+#define MAP_ROUTE2        (3 | (45 << 8))
+#define MAP_PEWTER_CITY   (4 | (45 << 8))
+#define MAP_ROUTE3        (5 | (45 << 8))
+#define MAP_ROUTE4        (6 | (45 << 8))
 
 // gMapGroup_TownsAndRoutesJohto
 
