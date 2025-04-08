@@ -1284,3 +1284,21 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/Route3/scripts.inc"
 
 	.include "data/maps/Route4/scripts.inc"
+
+	.include "data/maps/ViridianForest/scripts.inc"
+
+	.include "data/maps/MtMoonEntrance/scripts.inc"
+
+	.include "data/maps/MtMoon1F/scripts.inc"
+
+	.include "data/maps/MtMoonB1F/scripts.inc"
+
+	.include "data/maps/MtMoonExit/scripts.inc"
+
+	.include "data/maps/MtMoonSquare/scripts.inc"
+
+	.include "data/maps/CeruleanCity/scripts.inc"
+
+	.include "data/maps/Route5/scripts.inc"
+
+	.include "data/maps/Route6/scripts.inc"

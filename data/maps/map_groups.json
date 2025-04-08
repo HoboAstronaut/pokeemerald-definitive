@@ -728,7 +728,12 @@
     "SixIslandDottedHoleSapphireRoom"
   ],
   "gMapGroup_DungeonsKanto": [
-
+    "ViridianForest",
+    "MtMoonEntrance",
+    "MtMoon1F",
+    "MtMoonB1F",
+    "MtMoonExit",
+    "MtMoonSquare"
   ],
   "gMapGroup_DungeonsJohto": [
 
@@ -772,7 +777,10 @@
     "Route2",
     "PewterCity",
     "Route3",
-    "Route4"
+    "Route4",
+    "CeruleanCity",
+    "Route5",
+    "Route6"
   ],
   "gMapGroup_TownsAndRoutesJohto": [
 
