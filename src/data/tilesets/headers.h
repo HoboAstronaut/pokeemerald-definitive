@@ -902,3 +902,25 @@ const struct Tileset gTileset_Viridian =
     .metatileAttributes = gMetatileAttributes_Viridian,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_Pewter =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_Pewter,
+    .palettes = gTilesetPalettes_Pewter,
+    .metatiles = gMetatiles_Pewter,
+    .metatileAttributes = gMetatileAttributes_Pewter,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_Cerulean =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_Cerulean,
+    .palettes = gTilesetPalettes_Cerulean,
+    .metatiles = gMetatiles_Cerulean,
+    .metatileAttributes = gMetatileAttributes_Cerulean,
+    .callback = NULL,
+};

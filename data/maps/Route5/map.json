@@ -17,6 +17,11 @@
       "map": "MAP_CERULEAN_CITY",
       "offset": 0,
       "direction": "up"
+    },
+    {
+      "map": "MAP_ROUTE5POND",
+      "offset": 18,
+      "direction": "right"
     }
   ],
   "object_events": [

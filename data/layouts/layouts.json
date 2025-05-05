@@ -5404,8 +5404,8 @@
     {
       "id": "LAYOUT_TWO_ISLE_PORT",
       "name": "TwoIslePort_Layout",
-      "width": 40,
-      "height": 22,
+      "width": 41,
+      "height": 23,
       "border_width": 2,
       "border_height": 2,
       "primary_tileset": "gTileset_General",
@@ -6633,7 +6633,7 @@
       "border_width": 2,
       "border_height": 2,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Slateport",
+      "secondary_tileset": "gTileset_Pewter",
       "border_filepath": "data/layouts/PewterCity/border.bin",
       "blockdata_filepath": "data/layouts/PewterCity/map.bin"
     },
@@ -6729,7 +6729,7 @@
       "border_width": 2,
       "border_height": 2,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Lilycove",
+      "secondary_tileset": "gTileset_Cerulean",
       "border_filepath": "data/layouts/MtMoonSquare/border.bin",
       "blockdata_filepath": "data/layouts/MtMoonSquare/map.bin"
     },
@@ -6741,7 +6741,7 @@
       "border_width": 2,
       "border_height": 2,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Lilycove",
+      "secondary_tileset": "gTileset_Cerulean",
       "border_filepath": "data/layouts/CeruleanCity/border.bin",
       "blockdata_filepath": "data/layouts/CeruleanCity/map.bin"
     },
@@ -6753,7 +6753,7 @@
       "border_width": 2,
       "border_height": 2,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Lilycove",
+      "secondary_tileset": "gTileset_Cerulean",
       "border_filepath": "data/layouts/Route5/border.bin",
       "blockdata_filepath": "data/layouts/Route5/map.bin"
     },
@@ -6768,6 +6768,102 @@
       "secondary_tileset": "gTileset_Slateport",
       "border_filepath": "data/layouts/Route6/border.bin",
       "blockdata_filepath": "data/layouts/Route6/map.bin"
+    },
+    {
+      "id": "LAYOUT_MT_MOON_FOSSIL_ROOM",
+      "name": "MtMoonFossilRoom_Layout",
+      "width": 40,
+      "height": 20,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_MeteorFalls",
+      "border_filepath": "data/layouts/MtMoonFossilRoom/border.bin",
+      "blockdata_filepath": "data/layouts/MtMoonFossilRoom/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE7",
+      "name": "Route7_Layout",
+      "width": 24,
+      "height": 20,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route7/border.bin",
+      "blockdata_filepath": "data/layouts/Route7/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE8",
+      "name": "Route8_Layout",
+      "width": 72,
+      "height": 20,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Route8/border.bin",
+      "blockdata_filepath": "data/layouts/Route8/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE9",
+      "name": "Route9_Layout",
+      "width": 72,
+      "height": 20,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Lilycove",
+      "border_filepath": "data/layouts/Route9/border.bin",
+      "blockdata_filepath": "data/layouts/Route9/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE5POND",
+      "name": "Route5Pond_Layout",
+      "width": 30,
+      "height": 20,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Fortree",
+      "border_filepath": "data/layouts/Route5Pond/border.bin",
+      "blockdata_filepath": "data/layouts/Route5Pond/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE10NORTH",
+      "name": "Route10North_Layout",
+      "width": 24,
+      "height": 51,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Lilycove",
+      "border_filepath": "data/layouts/Route10North/border.bin",
+      "blockdata_filepath": "data/layouts/Route10North/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE10SOUTH",
+      "name": "Route10South_Layout",
+      "width": 24,
+      "height": 29,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Mauville",
+      "border_filepath": "data/layouts/Route10South/border.bin",
+      "blockdata_filepath": "data/layouts/Route10South/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROCK_TUNNEL1F",
+      "name": "RockTunnel1F_Layout",
+      "width": 50,
+      "height": 42,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Cave",
+      "border_filepath": "data/layouts/RockTunnel1F/border.bin",
+      "blockdata_filepath": "data/layouts/RockTunnel1F/map.bin"
     }
   ]
 }

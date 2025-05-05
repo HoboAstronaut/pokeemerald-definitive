@@ -30,6 +30,13 @@
       "elevation": 0,
       "dest_map": "MAP_MT_MOON_EXIT",
       "dest_warp_id": "0"
+    },
+    {
+      "x": 40,
+      "y": 4,
+      "elevation": 0,
+      "dest_map": "MAP_MT_MOON_FOSSIL_ROOM",
+      "dest_warp_id": "0"
     }
   ],
   "coord_events": [

@@ -1767,3 +1767,41 @@ const u16 gTilesetPalettes_Viridian[][16] =
 };
 
 const u32 gTilesetTiles_Viridian[] = INCBIN_U32("data/tilesets/secondary/viridian/tiles.4bpp.lz");
+
+const u16 gTilesetPalettes_Pewter[][16] =
+{
+    INCBIN_U16("data/tilesets/secondary/pewter/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/pewter/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/pewter/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/pewter/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/pewter/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/pewter/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/pewter/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/pewter/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/pewter/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/pewter/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/pewter/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/pewter/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/pewter/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_Pewter[] = INCBIN_U32("data/tilesets/secondary/pewter/tiles.4bpp.lz");
+
+const u16 gTilesetPalettes_Cerulean[][16] =
+{
+    INCBIN_U16("data/tilesets/secondary/cerulean/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/cerulean/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/cerulean/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/cerulean/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/cerulean/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/cerulean/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/cerulean/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/cerulean/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/cerulean/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/cerulean/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/cerulean/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/cerulean/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/cerulean/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_Cerulean[] = INCBIN_U32("data/tilesets/secondary/cerulean/tiles.4bpp.lz");

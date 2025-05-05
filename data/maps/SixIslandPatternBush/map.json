@@ -2,7 +2,7 @@
   "id": "MAP_SIX_ISLAND_PATTERN_BUSH",
   "name": "SixIslandPatternBush",
   "layout": "LAYOUT_SIX_ISLAND_PATTERN_BUSH",
-  "music": "MUS_RG_SEVII_ROUTE",
+  "music": "MUS_RG_VIRIDIAN_FOREST",
   "region_map_section": "MAPSEC_PATTERN_BUSH",
   "requires_flash": false,
   "weather": "WEATHER_NONE",

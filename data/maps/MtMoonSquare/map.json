@@ -28,7 +28,7 @@
       "x": 32,
       "y": 18,
       "elevation": 0,
-      "dest_map": "MAP_MT_MOON_SQUARE",
+      "dest_map": "MAP_MT_MOON_ENTRANCE",
       "dest_warp_id": "6"
     }
   ],

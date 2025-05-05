@@ -1302,3 +1302,19 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/Route5/scripts.inc"
 
 	.include "data/maps/Route6/scripts.inc"
+
+	.include "data/maps/MtMoonFossilRoom/scripts.inc"
+
+	.include "data/maps/Route7/scripts.inc"
+
+	.include "data/maps/Route8/scripts.inc"
+
+	.include "data/maps/Route9/scripts.inc"
+
+	.include "data/maps/Route5Pond/scripts.inc"
+
+	.include "data/maps/Route10North/scripts.inc"
+
+	.include "data/maps/Route10South/scripts.inc"
+
+	.include "data/maps/RockTunnel1F/scripts.inc"

@@ -733,7 +733,9 @@
     "MtMoon1F",
     "MtMoonB1F",
     "MtMoonExit",
-    "MtMoonSquare"
+    "MtMoonSquare",
+    "MtMoonFossilRoom",
+    "RockTunnel1F"
   ],
   "gMapGroup_DungeonsJohto": [
 
@@ -780,7 +782,13 @@
     "Route4",
     "CeruleanCity",
     "Route5",
-    "Route6"
+    "Route6",
+    "Route7",
+    "Route8",
+    "Route9",
+    "Route5Pond",
+    "Route10North",
+    "Route10South"
   ],
   "gMapGroup_TownsAndRoutesJohto": [
 

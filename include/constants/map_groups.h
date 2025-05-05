@@ -685,12 +685,14 @@
 #define MAP_SIX_ISLAND_DOTTED_HOLE_SAPPHIRE_ROOM      (41 | (41 << 8))
 
 // gMapGroup_DungeonsKanto
-#define MAP_VIRIDIAN_FOREST  (0 | (42 << 8))
-#define MAP_MT_MOON_ENTRANCE (1 | (42 << 8))
-#define MAP_MT_MOON1F        (2 | (42 << 8))
-#define MAP_MT_MOON_B1F      (3 | (42 << 8))
-#define MAP_MT_MOON_EXIT     (4 | (42 << 8))
-#define MAP_MT_MOON_SQUARE   (5 | (42 << 8))
+#define MAP_VIRIDIAN_FOREST     (0 | (42 << 8))
+#define MAP_MT_MOON_ENTRANCE    (1 | (42 << 8))
+#define MAP_MT_MOON1F           (2 | (42 << 8))
+#define MAP_MT_MOON_B1F         (3 | (42 << 8))
+#define MAP_MT_MOON_EXIT        (4 | (42 << 8))
+#define MAP_MT_MOON_SQUARE      (5 | (42 << 8))
+#define MAP_MT_MOON_FOSSIL_ROOM (6 | (42 << 8))
+#define MAP_ROCK_TUNNEL1F       (7 | (42 << 8))
 
 // gMapGroup_DungeonsJohto
 
@@ -737,6 +739,12 @@
 #define MAP_CERULEAN_CITY (7 | (45 << 8))
 #define MAP_ROUTE5        (8 | (45 << 8))
 #define MAP_ROUTE6        (9 | (45 << 8))
+#define MAP_ROUTE7        (10 | (45 << 8))
+#define MAP_ROUTE8        (11 | (45 << 8))
+#define MAP_ROUTE9        (12 | (45 << 8))
+#define MAP_ROUTE5POND    (13 | (45 << 8))
+#define MAP_ROUTE10NORTH  (14 | (45 << 8))
+#define MAP_ROUTE10SOUTH  (15 | (45 << 8))
 
 // gMapGroup_TownsAndRoutesJohto
 

@@ -228,3 +228,9 @@ const u16 gMetatileAttributes_PalletTown[] = INCBIN_U16("data/tilesets/secondary
 
 const u16 gMetatiles_Viridian[] = INCBIN_U16("data/tilesets/secondary/viridian/metatiles.bin");
 const u16 gMetatileAttributes_Viridian[] = INCBIN_U16("data/tilesets/secondary/viridian/metatile_attributes.bin");
+
+const u16 gMetatiles_Pewter[] = INCBIN_U16("data/tilesets/secondary/pewter/metatiles.bin");
+const u16 gMetatileAttributes_Pewter[] = INCBIN_U16("data/tilesets/secondary/pewter/metatile_attributes.bin");
+
+const u16 gMetatiles_Cerulean[] = INCBIN_U16("data/tilesets/secondary/cerulean/metatiles.bin");
+const u16 gMetatileAttributes_Cerulean[] = INCBIN_U16("data/tilesets/secondary/cerulean/metatile_attributes.bin");
