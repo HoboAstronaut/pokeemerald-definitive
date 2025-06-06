@@ -234,3 +234,6 @@ const u16 gMetatileAttributes_Pewter[] = INCBIN_U16("data/tilesets/secondary/pew
 
 const u16 gMetatiles_Cerulean[] = INCBIN_U16("data/tilesets/secondary/cerulean/metatiles.bin");
 const u16 gMetatileAttributes_Cerulean[] = INCBIN_U16("data/tilesets/secondary/cerulean/metatile_attributes.bin");
+
+const u16 gMetatiles_Lavender[] = INCBIN_U16("data/tilesets/secondary/lavender/metatiles.bin");
+const u16 gMetatileAttributes_Lavender[] = INCBIN_U16("data/tilesets/secondary/lavender/metatile_attributes.bin");

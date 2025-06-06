@@ -683,16 +683,21 @@
 #define MAP_SIX_ISLAND_DOTTED_HOLE_B3F                (39 | (41 << 8))
 #define MAP_SIX_ISLAND_DOTTED_HOLE_B4F                (40 | (41 << 8))
 #define MAP_SIX_ISLAND_DOTTED_HOLE_SAPPHIRE_ROOM      (41 | (41 << 8))
+#define MAP_SIX_ISLAND_OUTCAST_COVE                   (42 | (41 << 8))
 
 // gMapGroup_DungeonsKanto
-#define MAP_VIRIDIAN_FOREST     (0 | (42 << 8))
-#define MAP_MT_MOON_ENTRANCE    (1 | (42 << 8))
-#define MAP_MT_MOON1F           (2 | (42 << 8))
-#define MAP_MT_MOON_B1F         (3 | (42 << 8))
-#define MAP_MT_MOON_EXIT        (4 | (42 << 8))
-#define MAP_MT_MOON_SQUARE      (5 | (42 << 8))
-#define MAP_MT_MOON_FOSSIL_ROOM (6 | (42 << 8))
-#define MAP_ROCK_TUNNEL1F       (7 | (42 << 8))
+#define MAP_VIRIDIAN_FOREST              (0 | (42 << 8))
+#define MAP_MT_MOON_ENTRANCE             (1 | (42 << 8))
+#define MAP_MT_MOON1F                    (2 | (42 << 8))
+#define MAP_MT_MOON_B1F                  (3 | (42 << 8))
+#define MAP_MT_MOON_EXIT                 (4 | (42 << 8))
+#define MAP_MT_MOON_SQUARE               (5 | (42 << 8))
+#define MAP_MT_MOON_FOSSIL_ROOM          (6 | (42 << 8))
+#define MAP_ROCK_TUNNEL1F                (7 | (42 << 8))
+#define MAP_ROCK_TUNNEL_B1F              (8 | (42 << 8))
+#define MAP_DIGLETTS_CAVE_NORTH_ENTRANCE (9 | (42 << 8))
+#define MAP_DIGLETTS_CAVE_B1F            (10 | (42 << 8))
+#define MAP_DIGLETTS_CAVE_SOUTH_ENTRANCE (11 | (42 << 8))
 
 // gMapGroup_DungeonsJohto
 
@@ -745,6 +750,8 @@
 #define MAP_ROUTE5POND    (13 | (45 << 8))
 #define MAP_ROUTE10NORTH  (14 | (45 << 8))
 #define MAP_ROUTE10SOUTH  (15 | (45 << 8))
+#define MAP_LAVENDER_TOWN (16 | (45 << 8))
+#define MAP_ROUTE11       (17 | (45 << 8))
 
 // gMapGroup_TownsAndRoutesJohto
 

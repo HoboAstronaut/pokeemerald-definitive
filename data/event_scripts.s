@@ -1318,3 +1318,17 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/Route10South/scripts.inc"
 
 	.include "data/maps/RockTunnel1F/scripts.inc"
+
+	.include "data/maps/RockTunnelB1F/scripts.inc"
+
+	.include "data/maps/LavenderTown/scripts.inc"
+
+	.include "data/maps/Route11/scripts.inc"
+
+	.include "data/maps/SixIslandOutcastCove/scripts.inc"
+
+	.include "data/maps/DIglettsCaveNorthEntrance/scripts.inc"
+
+	.include "data/maps/DiglettsCaveB1F/scripts.inc"
+
+	.include "data/maps/DiglettsCaveSouthEntrance/scripts.inc"

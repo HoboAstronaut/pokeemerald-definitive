@@ -725,7 +725,8 @@
     "SixIslandDottedHoleB2F",
     "SixIslandDottedHoleB3F",
     "SixIslandDottedHoleB4F",
-    "SixIslandDottedHoleSapphireRoom"
+    "SixIslandDottedHoleSapphireRoom",
+    "SixIslandOutcastCove"
   ],
   "gMapGroup_DungeonsKanto": [
     "ViridianForest",
@@ -735,7 +736,11 @@
     "MtMoonExit",
     "MtMoonSquare",
     "MtMoonFossilRoom",
-    "RockTunnel1F"
+    "RockTunnel1F",
+    "RockTunnelB1F",
+    "DIglettsCaveNorthEntrance",
+    "DiglettsCaveB1F",
+    "DiglettsCaveSouthEntrance"
   ],
   "gMapGroup_DungeonsJohto": [
 
@@ -788,7 +793,9 @@
     "Route9",
     "Route5Pond",
     "Route10North",
-    "Route10South"
+    "Route10South",
+    "LavenderTown",
+    "Route11"
   ],
   "gMapGroup_TownsAndRoutesJohto": [
 

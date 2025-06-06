@@ -6621,7 +6621,7 @@
       "border_width": 2,
       "border_height": 2,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Slateport",
+      "secondary_tileset": "gTileset_Pewter",
       "border_filepath": "data/layouts/Route2/border.bin",
       "blockdata_filepath": "data/layouts/Route2/map.bin"
     },
@@ -6645,7 +6645,7 @@
       "border_width": 2,
       "border_height": 2,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Slateport",
+      "secondary_tileset": "gTileset_Pewter",
       "border_filepath": "data/layouts/Route3/border.bin",
       "blockdata_filepath": "data/layouts/Route3/map.bin"
     },
@@ -6657,7 +6657,7 @@
       "border_width": 2,
       "border_height": 2,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Lilycove",
+      "secondary_tileset": "gTileset_Pewter",
       "border_filepath": "data/layouts/Route4/border.bin",
       "blockdata_filepath": "data/layouts/Route4/map.bin"
     },
@@ -6801,7 +6801,7 @@
       "border_width": 2,
       "border_height": 2,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Petalburg",
+      "secondary_tileset": "gTileset_Lavender",
       "border_filepath": "data/layouts/Route8/border.bin",
       "blockdata_filepath": "data/layouts/Route8/map.bin"
     },
@@ -6813,7 +6813,7 @@
       "border_width": 2,
       "border_height": 2,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Lilycove",
+      "secondary_tileset": "gTileset_Cerulean",
       "border_filepath": "data/layouts/Route9/border.bin",
       "blockdata_filepath": "data/layouts/Route9/map.bin"
     },
@@ -6837,7 +6837,7 @@
       "border_width": 2,
       "border_height": 2,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Lilycove",
+      "secondary_tileset": "gTileset_Lavender",
       "border_filepath": "data/layouts/Route10North/border.bin",
       "blockdata_filepath": "data/layouts/Route10North/map.bin"
     },
@@ -6849,7 +6849,7 @@
       "border_width": 2,
       "border_height": 2,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Mauville",
+      "secondary_tileset": "gTileset_Lavender",
       "border_filepath": "data/layouts/Route10South/border.bin",
       "blockdata_filepath": "data/layouts/Route10South/map.bin"
     },
@@ -6864,6 +6864,90 @@
       "secondary_tileset": "gTileset_Cave",
       "border_filepath": "data/layouts/RockTunnel1F/border.bin",
       "blockdata_filepath": "data/layouts/RockTunnel1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROCK_TUNNEL_B1F",
+      "name": "RockTunnelB1F_Layout",
+      "width": 49,
+      "height": 41,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Cave",
+      "border_filepath": "data/layouts/RockTunnelB1F/border.bin",
+      "blockdata_filepath": "data/layouts/RockTunnelB1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_LAVENDER_TOWN",
+      "name": "LavenderTown_Layout",
+      "width": 24,
+      "height": 20,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Lavender",
+      "border_filepath": "data/layouts/LavenderTown/border.bin",
+      "blockdata_filepath": "data/layouts/LavenderTown/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE11",
+      "name": "Route11_Layout",
+      "width": 72,
+      "height": 20,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Lilycove",
+      "border_filepath": "data/layouts/Route11/border.bin",
+      "blockdata_filepath": "data/layouts/Route11/map.bin"
+    },
+    {
+      "id": "LAYOUT_SIX_ISLAND_OUTCAST_COVE",
+      "name": "SixIslandOutcastCove_Layout",
+      "width": 33,
+      "height": 24,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Cave",
+      "border_filepath": "data/layouts/SixIslandOutcastCove/border.bin",
+      "blockdata_filepath": "data/layouts/SixIslandOutcastCove/map.bin"
+    },
+    {
+      "id": "LAYOUT_DIGLETTS_CAVE_NORTH_ENTRANCE",
+      "name": "DIglettsCaveNorthEntrance_Layout",
+      "width": 10,
+      "height": 8,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_MirageTower",
+      "border_filepath": "data/layouts/DIglettsCaveNorthEntrance/border.bin",
+      "blockdata_filepath": "data/layouts/DIglettsCaveNorthEntrance/map.bin"
+    },
+    {
+      "id": "LAYOUT_DIGLETTS_CAVE_B1F",
+      "name": "DiglettsCaveB1F_Layout",
+      "width": 85,
+      "height": 80,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_MirageTower",
+      "border_filepath": "data/layouts/DiglettsCaveB1F/border.bin",
+      "blockdata_filepath": "data/layouts/DiglettsCaveB1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_DIGLETTS_CAVE_SOUTH_ENTRANCE",
+      "name": "DiglettsCaveSouthEntrance_Layout",
+      "width": 10,
+      "height": 8,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_MirageTower",
+      "border_filepath": "data/layouts/DiglettsCaveSouthEntrance/border.bin",
+      "blockdata_filepath": "data/layouts/DiglettsCaveSouthEntrance/map.bin"
     }
   ]
 }
