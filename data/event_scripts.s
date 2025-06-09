@@ -1332,3 +1332,5 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/DiglettsCaveB1F/scripts.inc"
 
 	.include "data/maps/DiglettsCaveSouthEntrance/scripts.inc"
+
+	.include "data/maps/VermilionCity/scripts.inc"

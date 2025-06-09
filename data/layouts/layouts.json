@@ -6590,7 +6590,7 @@
       "blockdata_filepath": "data/layouts/PalletTown/map.bin"
     },
     {
-      "id": "LAYOUT_NEW_MAP1",
+      "id": "LAYOUT_ROUTE1",
       "name": "Route1_Layout",
       "width": 24,
       "height": 40,
@@ -6657,7 +6657,7 @@
       "border_width": 2,
       "border_height": 2,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Pewter",
+      "secondary_tileset": "gTileset_Cerulean",
       "border_filepath": "data/layouts/Route4/border.bin",
       "blockdata_filepath": "data/layouts/Route4/map.bin"
     },
@@ -6765,7 +6765,7 @@
       "border_width": 2,
       "border_height": 2,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Slateport",
+      "secondary_tileset": "gTileset_Lilycove",
       "border_filepath": "data/layouts/Route6/border.bin",
       "blockdata_filepath": "data/layouts/Route6/map.bin"
     },
@@ -6897,7 +6897,7 @@
       "border_width": 2,
       "border_height": 2,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Lilycove",
+      "secondary_tileset": "gTileset_Vermilion",
       "border_filepath": "data/layouts/Route11/border.bin",
       "blockdata_filepath": "data/layouts/Route11/map.bin"
     },
@@ -6948,6 +6948,18 @@
       "secondary_tileset": "gTileset_MirageTower",
       "border_filepath": "data/layouts/DiglettsCaveSouthEntrance/border.bin",
       "blockdata_filepath": "data/layouts/DiglettsCaveSouthEntrance/map.bin"
+    },
+    {
+      "id": "LAYOUT_VERMILION_CITY",
+      "name": "VermilionCity_Layout",
+      "width": 48,
+      "height": 40,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Vermilion",
+      "border_filepath": "data/layouts/VermilionCity/border.bin",
+      "blockdata_filepath": "data/layouts/VermilionCity/map.bin"
     }
   ]
 }

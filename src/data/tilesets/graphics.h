@@ -1824,3 +1824,22 @@ const u16 gTilesetPalettes_Lavender[][16] =
 };
 
 const u32 gTilesetTiles_Lavender[] = INCBIN_U32("data/tilesets/secondary/lavender/tiles.4bpp.lz");
+
+const u16 gTilesetPalettes_Vermilion[][16] =
+{
+    INCBIN_U16("data/tilesets/secondary/vermilion/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/vermilion/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/vermilion/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/vermilion/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/vermilion/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/vermilion/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/vermilion/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/vermilion/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/vermilion/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/vermilion/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/vermilion/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/vermilion/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/vermilion/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_Vermilion[] = INCBIN_U32("data/tilesets/secondary/vermilion/tiles.4bpp.lz");

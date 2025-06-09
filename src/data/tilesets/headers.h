@@ -935,3 +935,14 @@ const struct Tileset gTileset_Lavender =
     .metatileAttributes = gMetatileAttributes_Lavender,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_Vermilion =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_Vermilion,
+    .palettes = gTilesetPalettes_Vermilion,
+    .metatiles = gMetatiles_Vermilion,
+    .metatileAttributes = gMetatileAttributes_Vermilion,
+    .callback = NULL,
+};
