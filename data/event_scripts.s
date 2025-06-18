@@ -1334,3 +1334,15 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/DiglettsCaveSouthEntrance/scripts.inc"
 
 	.include "data/maps/VermilionCity/scripts.inc"
+
+	.include "data/maps/Route12/scripts.inc"
+
+	.include "data/maps/Route13/scripts.inc"
+
+	.include "data/maps/Route14/scripts.inc"
+
+	.include "data/maps/Route15/scripts.inc"
+
+	.include "data/maps/VermilionCityHarbor/scripts.inc"
+
+	.include "data/maps/CeladonCity/scripts.inc"

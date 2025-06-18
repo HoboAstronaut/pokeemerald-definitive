@@ -141,6 +141,13 @@
       "elevation": 0,
       "dest_map": "MAP_ONE_ISLAND_MT_EMBER_FOOT",
       "dest_warp_id": "1"
+    },
+    {
+      "x": 43,
+      "y": 40,
+      "elevation": 0,
+      "dest_map": "MAP_MT_EMBER_RUBY_PATH1F",
+      "dest_warp_id": "0"
     }
   ],
   "coord_events": [

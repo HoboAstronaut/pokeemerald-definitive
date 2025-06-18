@@ -17,7 +17,13 @@
 
   ],
   "warp_events": [
-
+    {
+      "x": 22,
+      "y": 17,
+      "elevation": 0,
+      "dest_map": "MAP_MT_EMBER_EXTERIOR",
+      "dest_warp_id": "5"
+    }
   ],
   "coord_events": [
 

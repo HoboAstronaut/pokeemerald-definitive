@@ -1843,3 +1843,22 @@ const u16 gTilesetPalettes_Vermilion[][16] =
 };
 
 const u32 gTilesetTiles_Vermilion[] = INCBIN_U32("data/tilesets/secondary/vermilion/tiles.4bpp.lz");
+
+const u16 gTilesetPalettes_Celadon[][16] =
+{
+    INCBIN_U16("data/tilesets/secondary/celadon/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/celadon/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/celadon/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/celadon/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/celadon/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/celadon/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/celadon/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/celadon/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/celadon/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/celadon/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/celadon/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/celadon/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/celadon/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_Celadon[] = INCBIN_U32("data/tilesets/secondary/celadon/tiles.4bpp.lz");

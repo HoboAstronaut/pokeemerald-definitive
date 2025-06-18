@@ -946,3 +946,14 @@ const struct Tileset gTileset_Vermilion =
     .metatileAttributes = gMetatileAttributes_Vermilion,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_Celadon =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_Celadon,
+    .palettes = gTilesetPalettes_Celadon,
+    .metatiles = gMetatiles_Celadon,
+    .metatileAttributes = gMetatileAttributes_Celadon,
+    .callback = NULL,
+};
