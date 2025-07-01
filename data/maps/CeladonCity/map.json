@@ -17,13 +17,24 @@
       "map": "MAP_ROUTE7",
       "offset": 10,
       "direction": "right"
+    },
+    {
+      "map": "MAP_ROUTE16",
+      "offset": 10,
+      "direction": "left"
     }
   ],
   "object_events": [
 
   ],
   "warp_events": [
-
+    {
+      "x": 47,
+      "y": 11,
+      "elevation": 0,
+      "dest_map": "MAP_CELADON_CITY",
+      "dest_warp_id": "0"
+    }
   ],
   "coord_events": [
 

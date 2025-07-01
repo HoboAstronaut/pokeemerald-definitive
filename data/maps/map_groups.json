@@ -740,7 +740,8 @@
     "RockTunnelB1F",
     "DIglettsCaveNorthEntrance",
     "DiglettsCaveB1F",
-    "DiglettsCaveSouthEntrance"
+    "DiglettsCaveSouthEntrance",
+    "PowerPlantAbandoned"
   ],
   "gMapGroup_DungeonsJohto": [
 
@@ -802,7 +803,10 @@
     "Route14",
     "Route15",
     "VermilionCityHarbor",
-    "CeladonCity"
+    "CeladonCity",
+    "Route16",
+    "Route17",
+    "Route18"
   ],
   "gMapGroup_TownsAndRoutesJohto": [
 

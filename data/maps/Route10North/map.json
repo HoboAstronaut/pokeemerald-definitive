@@ -34,6 +34,13 @@
       "elevation": 0,
       "dest_map": "MAP_ROCK_TUNNEL1F",
       "dest_warp_id": "0"
+    },
+    {
+      "x": 1,
+      "y": 35,
+      "elevation": 0,
+      "dest_map": "MAP_POWER_PLANT_ABANDONED",
+      "dest_warp_id": "2"
     }
   ],
   "coord_events": [

@@ -698,6 +698,7 @@
 #define MAP_DIGLETTS_CAVE_NORTH_ENTRANCE (9 | (42 << 8))
 #define MAP_DIGLETTS_CAVE_B1F            (10 | (42 << 8))
 #define MAP_DIGLETTS_CAVE_SOUTH_ENTRANCE (11 | (42 << 8))
+#define MAP_POWER_PLANT_ABANDONED        (12 | (42 << 8))
 
 // gMapGroup_DungeonsJohto
 
@@ -759,6 +760,9 @@
 #define MAP_ROUTE15               (22 | (45 << 8))
 #define MAP_VERMILION_CITY_HARBOR (23 | (45 << 8))
 #define MAP_CELADON_CITY          (24 | (45 << 8))
+#define MAP_ROUTE16               (25 | (45 << 8))
+#define MAP_ROUTE17               (26 | (45 << 8))
+#define MAP_ROUTE18               (27 | (45 << 8))
 
 // gMapGroup_TownsAndRoutesJohto
 
