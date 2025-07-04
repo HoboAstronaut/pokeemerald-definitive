@@ -763,6 +763,7 @@
 #define MAP_ROUTE16               (25 | (45 << 8))
 #define MAP_ROUTE17               (26 | (45 << 8))
 #define MAP_ROUTE18               (27 | (45 << 8))
+#define MAP_FUCHSIA_CITY          (28 | (45 << 8))
 
 // gMapGroup_TownsAndRoutesJohto
 
