@@ -6753,7 +6753,7 @@
       "border_width": 2,
       "border_height": 2,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Cerulean",
+      "secondary_tileset": "gTileset_Pewter",
       "border_filepath": "data/layouts/Route5/border.bin",
       "blockdata_filepath": "data/layouts/Route5/map.bin"
     },
@@ -6801,7 +6801,7 @@
       "border_width": 2,
       "border_height": 2,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Lavender",
+      "secondary_tileset": "gTileset_Route8",
       "border_filepath": "data/layouts/Route8/border.bin",
       "blockdata_filepath": "data/layouts/Route8/map.bin"
     },
@@ -7005,7 +7005,7 @@
       "border_width": 2,
       "border_height": 2,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Celadon",
+      "secondary_tileset": "gTileset_Fuchsia",
       "border_filepath": "data/layouts/Route15/border.bin",
       "blockdata_filepath": "data/layouts/Route15/map.bin"
     },
@@ -7077,7 +7077,7 @@
       "border_width": 2,
       "border_height": 2,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Celadon",
+      "secondary_tileset": "gTileset_Fuchsia",
       "border_filepath": "data/layouts/Route18/border.bin",
       "blockdata_filepath": "data/layouts/Route18/map.bin"
     },
@@ -7089,9 +7089,141 @@
       "border_width": 2,
       "border_height": 2,
       "primary_tileset": "gTileset_General",
-      "secondary_tileset": "gTileset_Mossdeep",
+      "secondary_tileset": "gTileset_Fuchsia",
       "border_filepath": "data/layouts/FuchsiaCity/border.bin",
       "blockdata_filepath": "data/layouts/FuchsiaCity/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE19",
+      "name": "Route19_Layout",
+      "width": 24,
+      "height": 60,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Fuchsia",
+      "border_filepath": "data/layouts/Route19/border.bin",
+      "blockdata_filepath": "data/layouts/Route19/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE20",
+      "name": "Route20_Layout",
+      "width": 120,
+      "height": 20,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_PalletTown",
+      "border_filepath": "data/layouts/Route20/border.bin",
+      "blockdata_filepath": "data/layouts/Route20/map.bin"
+    },
+    {
+      "id": "LAYOUT_THREE_ISLE_PATH",
+      "name": "ThreeIslePath_Layout",
+      "width": 30,
+      "height": 7,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Cave",
+      "border_filepath": "data/layouts/ThreeIslePath/border.bin",
+      "blockdata_filepath": "data/layouts/ThreeIslePath/map.bin"
+    },
+    {
+      "id": "LAYOUT_SEAFOAM_ISLANDS1F",
+      "name": "SeafoamIslands1F_Layout",
+      "width": 38,
+      "height": 24,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_SootopolisGym_Expanded",
+      "border_filepath": "data/layouts/SeafoamIslands1F/border.bin",
+      "blockdata_filepath": "data/layouts/SeafoamIslands1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_SEAFOAM_ISLANDS_B1F",
+      "name": "SeafoamIslandsB1F_Layout",
+      "width": 38,
+      "height": 24,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_SootopolisGym_Expanded",
+      "border_filepath": "data/layouts/SeafoamIslandsB1F/border.bin",
+      "blockdata_filepath": "data/layouts/SeafoamIslandsB1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_SEAFOAM_ISLANDS_B2F",
+      "name": "SeafoamIslandsB2F_Layout",
+      "width": 38,
+      "height": 24,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_SootopolisGym_Expanded",
+      "border_filepath": "data/layouts/SeafoamIslandsB2F/border.bin",
+      "blockdata_filepath": "data/layouts/SeafoamIslandsB2F/map.bin"
+    },
+    {
+      "id": "LAYOUT_SEAFOAM_ISLANDS_B3F",
+      "name": "SeafoamIslandsB3F_Layout",
+      "width": 38,
+      "height": 24,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_SootopolisGym_Expanded",
+      "border_filepath": "data/layouts/SeafoamIslandsB3F/border.bin",
+      "blockdata_filepath": "data/layouts/SeafoamIslandsB3F/map.bin"
+    },
+    {
+      "id": "LAYOUT_SEAFOAM_ISLANDS_B4F",
+      "name": "SeafoamIslandsB4F_Layout",
+      "width": 38,
+      "height": 24,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_SootopolisGym_Expanded",
+      "border_filepath": "data/layouts/SeafoamIslandsB4F/border.bin",
+      "blockdata_filepath": "data/layouts/SeafoamIslandsB4F/map.bin"
+    },
+    {
+      "id": "LAYOUT_CINNABAR_ISLAND",
+      "name": "CinnabarIsland_Layout",
+      "width": 30,
+      "height": 30,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_PalletTown",
+      "border_filepath": "data/layouts/CinnabarIsland/border.bin",
+      "blockdata_filepath": "data/layouts/CinnabarIsland/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE21NORTH",
+      "name": "Route21North_Layout",
+      "width": 24,
+      "height": 50,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_PalletTown",
+      "border_filepath": "data/layouts/Route21North/border.bin",
+      "blockdata_filepath": "data/layouts/Route21North/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE21SOUTH",
+      "name": "Route21South_Layout",
+      "width": 24,
+      "height": 50,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_PalletTown",
+      "border_filepath": "data/layouts/Route21South/border.bin",
+      "blockdata_filepath": "data/layouts/Route21South/map.bin"
     }
   ]
 }

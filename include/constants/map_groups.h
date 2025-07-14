@@ -684,6 +684,7 @@
 #define MAP_SIX_ISLAND_DOTTED_HOLE_B4F                (40 | (41 << 8))
 #define MAP_SIX_ISLAND_DOTTED_HOLE_SAPPHIRE_ROOM      (41 | (41 << 8))
 #define MAP_SIX_ISLAND_OUTCAST_COVE                   (42 | (41 << 8))
+#define MAP_THREE_ISLE_PATH                           (43 | (41 << 8))
 
 // gMapGroup_DungeonsKanto
 #define MAP_VIRIDIAN_FOREST              (0 | (42 << 8))
@@ -699,6 +700,11 @@
 #define MAP_DIGLETTS_CAVE_B1F            (10 | (42 << 8))
 #define MAP_DIGLETTS_CAVE_SOUTH_ENTRANCE (11 | (42 << 8))
 #define MAP_POWER_PLANT_ABANDONED        (12 | (42 << 8))
+#define MAP_SEAFOAM_ISLANDS1F            (13 | (42 << 8))
+#define MAP_SEAFOAM_ISLANDS_B1F          (14 | (42 << 8))
+#define MAP_SEAFOAM_ISLANDS_B2F          (15 | (42 << 8))
+#define MAP_SEAFOAM_ISLANDS_B3F          (16 | (42 << 8))
+#define MAP_SEAFOAM_ISLANDS_B4F          (17 | (42 << 8))
 
 // gMapGroup_DungeonsJohto
 
@@ -764,6 +770,11 @@
 #define MAP_ROUTE17               (26 | (45 << 8))
 #define MAP_ROUTE18               (27 | (45 << 8))
 #define MAP_FUCHSIA_CITY          (28 | (45 << 8))
+#define MAP_ROUTE19               (29 | (45 << 8))
+#define MAP_ROUTE20               (30 | (45 << 8))
+#define MAP_CINNABAR_ISLAND       (31 | (45 << 8))
+#define MAP_ROUTE21NORTH          (32 | (45 << 8))
+#define MAP_ROUTE21SOUTH          (33 | (45 << 8))
 
 // gMapGroup_TownsAndRoutesJohto
 

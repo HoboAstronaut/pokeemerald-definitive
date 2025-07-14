@@ -1356,3 +1356,25 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/Route18/scripts.inc"
 
 	.include "data/maps/FuchsiaCity/scripts.inc"
+
+	.include "data/maps/Route19/scripts.inc"
+
+	.include "data/maps/Route20/scripts.inc"
+
+	.include "data/maps/ThreeIslePath/scripts.inc"
+
+	.include "data/maps/SeafoamIslands1F/scripts.inc"
+
+	.include "data/maps/SeafoamIslandsB1F/scripts.inc"
+
+	.include "data/maps/SeafoamIslandsB2F/scripts.inc"
+
+	.include "data/maps/SeafoamIslandsB3F/scripts.inc"
+
+	.include "data/maps/SeafoamIslandsB4F/scripts.inc"
+
+	.include "data/maps/CinnabarIsland/scripts.inc"
+
+	.include "data/maps/Route21North/scripts.inc"
+
+	.include "data/maps/Route21South/scripts.inc"

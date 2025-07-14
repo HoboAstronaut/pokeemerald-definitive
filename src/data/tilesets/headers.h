@@ -957,3 +957,25 @@ const struct Tileset gTileset_Celadon =
     .metatileAttributes = gMetatileAttributes_Celadon,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_Fuchsia =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_Fuchsia,
+    .palettes = gTilesetPalettes_Fuchsia,
+    .metatiles = gMetatiles_Fuchsia,
+    .metatileAttributes = gMetatileAttributes_Fuchsia,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_Route8 =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_Route8,
+    .palettes = gTilesetPalettes_Route8,
+    .metatiles = gMetatiles_Route8,
+    .metatileAttributes = gMetatileAttributes_Route8,
+    .callback = NULL,
+};

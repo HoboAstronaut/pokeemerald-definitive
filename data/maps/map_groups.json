@@ -726,7 +726,8 @@
     "SixIslandDottedHoleB3F",
     "SixIslandDottedHoleB4F",
     "SixIslandDottedHoleSapphireRoom",
-    "SixIslandOutcastCove"
+    "SixIslandOutcastCove",
+    "ThreeIslePath"
   ],
   "gMapGroup_DungeonsKanto": [
     "ViridianForest",
@@ -741,7 +742,12 @@
     "DIglettsCaveNorthEntrance",
     "DiglettsCaveB1F",
     "DiglettsCaveSouthEntrance",
-    "PowerPlantAbandoned"
+    "PowerPlantAbandoned",
+    "SeafoamIslands1F",
+    "SeafoamIslandsB1F",
+    "SeafoamIslandsB2F",
+    "SeafoamIslandsB3F",
+    "SeafoamIslandsB4F"
   ],
   "gMapGroup_DungeonsJohto": [
 
@@ -807,7 +813,12 @@
     "Route16",
     "Route17",
     "Route18",
-    "FuchsiaCity"
+    "FuchsiaCity",
+    "Route19",
+    "Route20",
+    "CinnabarIsland",
+    "Route21North",
+    "Route21South"
   ],
   "gMapGroup_TownsAndRoutesJohto": [
 

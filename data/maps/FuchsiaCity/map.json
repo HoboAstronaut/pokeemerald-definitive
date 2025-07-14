@@ -24,9 +24,9 @@
       "direction": "left"
     },
     {
-      "map": "MAP_ROUTE18",
-      "offset": 10,
-      "direction": "left"
+      "map": "MAP_ROUTE19",
+      "offset": 12,
+      "direction": "down"
     }
   ],
   "object_events": [
@@ -35,7 +35,7 @@
   "warp_events": [
     {
       "x": 24,
-      "y": 31,
+      "y": 5,
       "elevation": 0,
       "dest_map": "MAP_FUCHSIA_CITY",
       "dest_warp_id": "0"

@@ -34,8 +34,15 @@
       "x": 17,
       "y": 5,
       "elevation": 0,
-      "dest_map": "MAP_THREE_ISLE_PORT",
+      "dest_map": "MAP_THREE_ISLE_PATH",
       "dest_warp_id": "0"
+    },
+    {
+      "x": 38,
+      "y": 6,
+      "elevation": 0,
+      "dest_map": "MAP_THREE_ISLE_PATH",
+      "dest_warp_id": "1"
     }
   ],
   "coord_events": [

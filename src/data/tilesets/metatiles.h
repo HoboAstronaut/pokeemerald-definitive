@@ -243,3 +243,9 @@ const u16 gMetatileAttributes_Vermilion[] = INCBIN_U16("data/tilesets/secondary/
 
 const u16 gMetatiles_Celadon[] = INCBIN_U16("data/tilesets/secondary/celadon/metatiles.bin");
 const u16 gMetatileAttributes_Celadon[] = INCBIN_U16("data/tilesets/secondary/celadon/metatile_attributes.bin");
+
+const u16 gMetatiles_Fuchsia[] = INCBIN_U16("data/tilesets/secondary/fuchsia/metatiles.bin");
+const u16 gMetatileAttributes_Fuchsia[] = INCBIN_U16("data/tilesets/secondary/fuchsia/metatile_attributes.bin");
+
+const u16 gMetatiles_Route8[] = INCBIN_U16("data/tilesets/secondary/route_8/metatiles.bin");
+const u16 gMetatileAttributes_Route8[] = INCBIN_U16("data/tilesets/secondary/route_8/metatile_attributes.bin");
