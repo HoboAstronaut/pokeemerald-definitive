@@ -979,3 +979,14 @@ const struct Tileset gTileset_Route8 =
     .metatileAttributes = gMetatileAttributes_Route8,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_Saffron =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_Saffron,
+    .palettes = gTilesetPalettes_Saffron,
+    .metatiles = gMetatiles_Saffron,
+    .metatileAttributes = gMetatileAttributes_Saffron,
+    .callback = NULL,
+};

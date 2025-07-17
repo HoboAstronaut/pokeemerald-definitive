@@ -17808,62 +17808,62 @@
             "mons": [
               {
                 "min_level": 5,
-                "max_level": 5,
+                "max_level": 25,
                 "species": "SPECIES_MEOWTH"
               },
               {
                 "min_level": 5,
-                "max_level": 5,
+                "max_level": 25,
                 "species": "SPECIES_SKITTY"
               },
               {
                 "min_level": 5,
-                "max_level": 5,
+                "max_level": 25,
                 "species": "SPECIES_BELLSPROUT"
               },
               {
                 "min_level": 5,
-                "max_level": 5,
+                "max_level": 25,
                 "species": "SPECIES_ODDISH"
               },
               {
                 "min_level": 5,
-                "max_level": 5,
+                "max_level": 25,
                 "species": "SPECIES_SHROOMISH"
               },
               {
-                "min_level": 5,
-                "max_level": 5,
+                "min_level": 25,
+                "max_level": 35,
                 "species": "SPECIES_PERSIAN"
               },
               {
-                "min_level": 5,
-                "max_level": 5,
+                "min_level": 25,
+                "max_level": 35,
                 "species": "SPECIES_GLOOM"
               },
               {
-                "min_level": 5,
-                "max_level": 5,
+                "min_level": 25,
+                "max_level": 35,
                 "species": "SPECIES_WEEPINBELL"
               },
               {
                 "min_level": 5,
-                "max_level": 5,
+                "max_level": 25,
                 "species": "SPECIES_HOOTHOOT"
               },
               {
                 "min_level": 5,
-                "max_level": 5,
+                "max_level": 25,
                 "species": "SPECIES_MURKROW"
               },
               {
                 "min_level": 5,
-                "max_level": 5,
+                "max_level": 35,
                 "species": "SPECIES_HOOTHOOT"
               },
               {
                 "min_level": 5,
-                "max_level": 5,
+                "max_level": 35,
                 "species": "SPECIES_MURKROW"
               }
             ]

@@ -1378,3 +1378,5 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/Route21North/scripts.inc"
 
 	.include "data/maps/Route21South/scripts.inc"
+
+	.include "data/maps/SaffronCity/scripts.inc"

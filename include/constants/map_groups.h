@@ -775,6 +775,7 @@
 #define MAP_CINNABAR_ISLAND       (31 | (45 << 8))
 #define MAP_ROUTE21NORTH          (32 | (45 << 8))
 #define MAP_ROUTE21SOUTH          (33 | (45 << 8))
+#define MAP_SAFFRON_CITY          (34 | (45 << 8))
 
 // gMapGroup_TownsAndRoutesJohto
 
