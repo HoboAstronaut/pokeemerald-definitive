@@ -685,6 +685,8 @@
 #define MAP_SIX_ISLAND_DOTTED_HOLE_SAPPHIRE_ROOM      (41 | (41 << 8))
 #define MAP_SIX_ISLAND_OUTCAST_COVE                   (42 | (41 << 8))
 #define MAP_THREE_ISLE_PATH                           (43 | (41 << 8))
+#define MAP_MT_EMBER_RUBY_PATH_B4F                    (44 | (41 << 8))
+#define MAP_MT_EMBER_RUBY_PATH5F                      (45 | (41 << 8))
 
 // gMapGroup_DungeonsKanto
 #define MAP_VIRIDIAN_FOREST              (0 | (42 << 8))
@@ -776,6 +778,11 @@
 #define MAP_ROUTE21NORTH          (32 | (45 << 8))
 #define MAP_ROUTE21SOUTH          (33 | (45 << 8))
 #define MAP_SAFFRON_CITY          (34 | (45 << 8))
+#define MAP_ROUTE22               (35 | (45 << 8))
+#define MAP_ROUTE23               (36 | (45 << 8))
+#define MAP_INDIGO_PLATEAU        (37 | (45 << 8))
+#define MAP_ROUTE24               (38 | (45 << 8))
+#define MAP_ROUTE25               (39 | (45 << 8))
 
 // gMapGroup_TownsAndRoutesJohto
 

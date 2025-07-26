@@ -135,6 +135,20 @@
       "elevation": 0,
       "dest_map": "MAP_CINNABAR_ISLAND",
       "dest_warp_id": "0"
+    },
+    {
+      "x": 27,
+      "y": 19,
+      "elevation": 0,
+      "dest_map": "MAP_SAFFRON_CITY",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 19,
+      "y": 17,
+      "elevation": 0,
+      "dest_map": "MAP_INDIGO_PLATEAU",
+      "dest_warp_id": "0"
     }
   ],
   "coord_events": [

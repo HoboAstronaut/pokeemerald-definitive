@@ -1380,3 +1380,17 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/Route21South/scripts.inc"
 
 	.include "data/maps/SaffronCity/scripts.inc"
+
+	.include "data/maps/Route22/scripts.inc"
+
+	.include "data/maps/Route23/scripts.inc"
+
+	.include "data/maps/IndigoPlateau/scripts.inc"
+
+	.include "data/maps/Route24/scripts.inc"
+
+	.include "data/maps/Route25/scripts.inc"
+
+	.include "data/maps/MtEmberRubyPathB4F/scripts.inc"
+
+	.include "data/maps/MtEmberRubyPath5F/scripts.inc"

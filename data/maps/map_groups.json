@@ -727,7 +727,9 @@
     "SixIslandDottedHoleB4F",
     "SixIslandDottedHoleSapphireRoom",
     "SixIslandOutcastCove",
-    "ThreeIslePath"
+    "ThreeIslePath",
+    "MtEmberRubyPathB4F",
+    "MtEmberRubyPath5F"
   ],
   "gMapGroup_DungeonsKanto": [
     "ViridianForest",
@@ -819,7 +821,12 @@
     "CinnabarIsland",
     "Route21North",
     "Route21South",
-    "SaffronCity"
+    "SaffronCity",
+    "Route22",
+    "Route23",
+    "IndigoPlateau",
+    "Route24",
+    "Route25"
   ],
   "gMapGroup_TownsAndRoutesJohto": [
 
