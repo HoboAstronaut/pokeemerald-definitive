@@ -39,14 +39,14 @@
       "x": 12,
       "y": 6,
       "elevation": 0,
-      "dest_map": "MAP_FIVE_ISLAND",
+      "dest_map": "MAP_FIVE_ISLAND_HOUSE1",
       "dest_warp_id": "0"
     },
     {
       "x": 22,
       "y": 9,
       "elevation": 0,
-      "dest_map": "MAP_FIVE_ISLAND",
+      "dest_map": "MAP_FIVE_ISLAND_HOUSE2",
       "dest_warp_id": "0"
     },
     {

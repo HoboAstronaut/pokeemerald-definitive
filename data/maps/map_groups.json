@@ -657,31 +657,45 @@
     "ThreeIslandHarbor",
     "ThreeIslandPokemonCenter1F",
     "ThreeIslandPokemonCenter2F",
-    "ThreeIslandMart"
+    "ThreeIslandMart",
+    "ThreeIslandHouse4",
+    "ThreeIslandHouse5"
   ],
   "gMapGroup_IndoorFourIsland": [
     "FourIslandHarbor",
     "FourIslandPokemonCenter1F",
     "FourIslandPokemonCenter2F",
-    "FourIslandMart"
+    "FourIslandMart",
+    "FourIslandHouse1",
+    "FourIslandHouse2",
+    "FourIslandLoreleisHouse",
+    "FourIslandDayCare"
   ],
   "gMapGroup_IndoorFiveIsland": [
     "FiveIslandHarbor",
     "FiveIslandMeadowHouse",
     "FiveIslandPokemonCenter1F",
-    "FiveIslandPokemonCenter2F"
+    "FiveIslandPokemonCenter2F",
+    "FiveIslandHouse1",
+    "FiveIslandHouse2"
   ],
   "gMapGroup_IndoorSixIsland": [
     "SixIslandHarbor",
     "SixIslandPokemonCenter1F",
-    "SixIslandPokemonCenter2F"
+    "SixIslandPokemonCenter2F",
+    "SixIslandHouse",
+    "SixIslandWaterPathHouse1",
+    "SixIslandWaterPathHouse2"
   ],
   "gMapGroup_IndoorSevenIsland": [
     "SevenIslandHarbor",
     "SevenIslandPokemonCenter1F",
     "SevenIslandPokemonCenter2F",
     "SevenIslandMart",
-    "SixIslandMart"
+    "SixIslandMart",
+    "SevenIslandHouseRoom1",
+    "SevenIslandHouseRoom2",
+    "SevenIslandSevaultCanyonHouse"
   ],
   "gMapGroup_DungeonsSevii": [
     "MtEmberExterior",
@@ -749,7 +763,14 @@
     "SeafoamIslandsB1F",
     "SeafoamIslandsB2F",
     "SeafoamIslandsB3F",
-    "SeafoamIslandsB4F"
+    "SeafoamIslandsB4F",
+    "KantoVictoryRoad1F",
+    "KantoVictoryRoad2F",
+    "KantoVictoryRoad3F",
+    "CeruleanCave1F",
+    "CeruleanCave2F",
+    "CeruleanCaveB1F",
+    "CeruleanCaveB2F"
   ],
   "gMapGroup_DungeonsJohto": [
 

@@ -1394,3 +1394,45 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/MtEmberRubyPathB4F/scripts.inc"
 
 	.include "data/maps/MtEmberRubyPath5F/scripts.inc"
+
+	.include "data/maps/ThreeIslandHouse4/scripts.inc"
+
+	.include "data/maps/ThreeIslandHouse5/scripts.inc"
+
+	.include "data/maps/FourIslandHouse1/scripts.inc"
+
+	.include "data/maps/FourIslandHouse2/scripts.inc"
+
+	.include "data/maps/FourIslandLoreleisHouse/scripts.inc"
+
+	.include "data/maps/FiveIslandHouse1/scripts.inc"
+
+	.include "data/maps/FiveIslandHouse2/scripts.inc"
+
+	.include "data/maps/SevenIslandHouseRoom1/scripts.inc"
+
+	.include "data/maps/SevenIslandHouseRoom2/scripts.inc"
+
+	.include "data/maps/SixIslandHouse/scripts.inc"
+
+	.include "data/maps/FourIslandDayCare/scripts.inc"
+
+	.include "data/maps/KantoVictoryRoad1F/scripts.inc"
+
+	.include "data/maps/KantoVictoryRoad2F/scripts.inc"
+
+	.include "data/maps/KantoVictoryRoad3F/scripts.inc"
+
+	.include "data/maps/CeruleanCave1F/scripts.inc"
+
+	.include "data/maps/SixIslandWaterPathHouse1/scripts.inc"
+
+	.include "data/maps/SixIslandWaterPathHouse2/scripts.inc"
+
+	.include "data/maps/SevenIslandSevaultCanyonHouse/scripts.inc"
+
+	.include "data/maps/CeruleanCave2F/scripts.inc"
+
+	.include "data/maps/CeruleanCaveB1F/scripts.inc"
+
+	.include "data/maps/CeruleanCaveB2F/scripts.inc"

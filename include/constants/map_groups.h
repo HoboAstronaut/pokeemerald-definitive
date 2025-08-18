@@ -615,30 +615,44 @@
 #define MAP_THREE_ISLAND_POKEMON_CENTER1F (4 | (36 << 8))
 #define MAP_THREE_ISLAND_POKEMON_CENTER2F (5 | (36 << 8))
 #define MAP_THREE_ISLAND_MART             (6 | (36 << 8))
+#define MAP_THREE_ISLAND_HOUSE4           (7 | (36 << 8))
+#define MAP_THREE_ISLAND_HOUSE5           (8 | (36 << 8))
 
 // gMapGroup_IndoorFourIsland
 #define MAP_FOUR_ISLAND_HARBOR           (0 | (37 << 8))
 #define MAP_FOUR_ISLAND_POKEMON_CENTER1F (1 | (37 << 8))
 #define MAP_FOUR_ISLAND_POKEMON_CENTER2F (2 | (37 << 8))
 #define MAP_FOUR_ISLAND_MART             (3 | (37 << 8))
+#define MAP_FOUR_ISLAND_HOUSE1           (4 | (37 << 8))
+#define MAP_FOUR_ISLAND_HOUSE2           (5 | (37 << 8))
+#define MAP_FOUR_ISLAND_LORELEIS_HOUSE   (6 | (37 << 8))
+#define MAP_FOUR_ISLAND_DAY_CARE         (7 | (37 << 8))
 
 // gMapGroup_IndoorFiveIsland
 #define MAP_FIVE_ISLAND_HARBOR           (0 | (38 << 8))
 #define MAP_FIVE_ISLAND_MEADOW_HOUSE     (1 | (38 << 8))
 #define MAP_FIVE_ISLAND_POKEMON_CENTER1F (2 | (38 << 8))
 #define MAP_FIVE_ISLAND_POKEMON_CENTER2F (3 | (38 << 8))
+#define MAP_FIVE_ISLAND_HOUSE1           (4 | (38 << 8))
+#define MAP_FIVE_ISLAND_HOUSE2           (5 | (38 << 8))
 
 // gMapGroup_IndoorSixIsland
-#define MAP_SIX_ISLAND_HARBOR           (0 | (39 << 8))
-#define MAP_SIX_ISLAND_POKEMON_CENTER1F (1 | (39 << 8))
-#define MAP_SIX_ISLAND_POKEMON_CENTER2F (2 | (39 << 8))
+#define MAP_SIX_ISLAND_HARBOR            (0 | (39 << 8))
+#define MAP_SIX_ISLAND_POKEMON_CENTER1F  (1 | (39 << 8))
+#define MAP_SIX_ISLAND_POKEMON_CENTER2F  (2 | (39 << 8))
+#define MAP_SIX_ISLAND_HOUSE             (3 | (39 << 8))
+#define MAP_SIX_ISLAND_WATER_PATH_HOUSE1 (4 | (39 << 8))
+#define MAP_SIX_ISLAND_WATER_PATH_HOUSE2 (5 | (39 << 8))
 
 // gMapGroup_IndoorSevenIsland
-#define MAP_SEVEN_ISLAND_HARBOR           (0 | (40 << 8))
-#define MAP_SEVEN_ISLAND_POKEMON_CENTER1F (1 | (40 << 8))
-#define MAP_SEVEN_ISLAND_POKEMON_CENTER2F (2 | (40 << 8))
-#define MAP_SEVEN_ISLAND_MART             (3 | (40 << 8))
-#define MAP_SIX_ISLAND_MART               (4 | (40 << 8))
+#define MAP_SEVEN_ISLAND_HARBOR               (0 | (40 << 8))
+#define MAP_SEVEN_ISLAND_POKEMON_CENTER1F     (1 | (40 << 8))
+#define MAP_SEVEN_ISLAND_POKEMON_CENTER2F     (2 | (40 << 8))
+#define MAP_SEVEN_ISLAND_MART                 (3 | (40 << 8))
+#define MAP_SIX_ISLAND_MART                   (4 | (40 << 8))
+#define MAP_SEVEN_ISLAND_HOUSE_ROOM1          (5 | (40 << 8))
+#define MAP_SEVEN_ISLAND_HOUSE_ROOM2          (6 | (40 << 8))
+#define MAP_SEVEN_ISLAND_SEVAULT_CANYON_HOUSE (7 | (40 << 8))
 
 // gMapGroup_DungeonsSevii
 #define MAP_MT_EMBER_EXTERIOR                         (0 | (41 << 8))
@@ -707,6 +721,13 @@
 #define MAP_SEAFOAM_ISLANDS_B2F          (15 | (42 << 8))
 #define MAP_SEAFOAM_ISLANDS_B3F          (16 | (42 << 8))
 #define MAP_SEAFOAM_ISLANDS_B4F          (17 | (42 << 8))
+#define MAP_KANTO_VICTORY_ROAD1F         (18 | (42 << 8))
+#define MAP_KANTO_VICTORY_ROAD2F         (19 | (42 << 8))
+#define MAP_KANTO_VICTORY_ROAD3F         (20 | (42 << 8))
+#define MAP_CERULEAN_CAVE1F              (21 | (42 << 8))
+#define MAP_CERULEAN_CAVE2F              (22 | (42 << 8))
+#define MAP_CERULEAN_CAVE_B1F            (23 | (42 << 8))
+#define MAP_CERULEAN_CAVE_B2F            (24 | (42 << 8))
 
 // gMapGroup_DungeonsJohto
 

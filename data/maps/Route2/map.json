@@ -34,6 +34,34 @@
       "elevation": 0,
       "dest_map": "MAP_DIGLETTS_CAVE_NORTH_ENTRANCE",
       "dest_warp_id": "0"
+    },
+    {
+      "x": 6,
+      "y": 51,
+      "elevation": 0,
+      "dest_map": "MAP_VIRIDIAN_FOREST",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 5,
+      "y": 51,
+      "elevation": 0,
+      "dest_map": "MAP_VIRIDIAN_FOREST",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 5,
+      "y": 13,
+      "elevation": 0,
+      "dest_map": "MAP_VIRIDIAN_FOREST",
+      "dest_warp_id": "1"
+    },
+    {
+      "x": 6,
+      "y": 13,
+      "elevation": 0,
+      "dest_map": "MAP_VIRIDIAN_FOREST",
+      "dest_warp_id": "1"
     }
   ],
   "coord_events": [

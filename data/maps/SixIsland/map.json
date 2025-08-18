@@ -36,6 +36,20 @@
       "elevation": 0,
       "dest_map": "MAP_SIX_ISLAND_POKEMON_CENTER1F",
       "dest_warp_id": "0"
+    },
+    {
+      "x": 16,
+      "y": 17,
+      "elevation": 0,
+      "dest_map": "MAP_SIX_ISLAND_HOUSE",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 18,
+      "y": 11,
+      "elevation": 0,
+      "dest_map": "MAP_SIX_ISLAND_MART",
+      "dest_warp_id": "0"
     }
   ],
   "coord_events": [

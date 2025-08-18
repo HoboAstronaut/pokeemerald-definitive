@@ -48,6 +48,13 @@
       "elevation": 0,
       "dest_map": "MAP_SEVEN_ISLAND_MART",
       "dest_warp_id": "0"
+    },
+    {
+      "x": 11,
+      "y": 8,
+      "elevation": 0,
+      "dest_map": "MAP_SEVEN_ISLAND_HOUSE_ROOM1",
+      "dest_warp_id": "0"
     }
   ],
   "coord_events": [
