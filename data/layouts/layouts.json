@@ -7572,6 +7572,30 @@
       "secondary_tileset": "gTileset_MeteorFalls",
       "border_filepath": "data/layouts/CeruleanCaveB2F/border.bin",
       "blockdata_filepath": "data/layouts/CeruleanCaveB2F/map.bin"
+    },
+    {
+      "id": "LAYOUT_CERULEAN_CAVE_B3F",
+      "name": "CeruleanCaveB3F_Layout",
+      "width": 40,
+      "height": 23,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_MeteorFalls",
+      "border_filepath": "data/layouts/CeruleanCaveB3F/border.bin",
+      "blockdata_filepath": "data/layouts/CeruleanCaveB3F/map.bin"
+    },
+    {
+      "id": "LAYOUT_CERULEAN_CAVE_B4F",
+      "name": "CeruleanCaveB4F_Layout",
+      "width": 42,
+      "height": 24,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_MeteorFalls",
+      "border_filepath": "data/layouts/CeruleanCaveB4F/border.bin",
+      "blockdata_filepath": "data/layouts/CeruleanCaveB4F/map.bin"
     }
   ]
 }

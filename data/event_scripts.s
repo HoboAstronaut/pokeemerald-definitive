@@ -1436,3 +1436,7 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/CeruleanCaveB1F/scripts.inc"
 
 	.include "data/maps/CeruleanCaveB2F/scripts.inc"
+
+	.include "data/maps/CeruleanCaveB3F/scripts.inc"
+
+	.include "data/maps/CeruleanCaveB4F/scripts.inc"

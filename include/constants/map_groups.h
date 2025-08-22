@@ -728,6 +728,8 @@
 #define MAP_CERULEAN_CAVE2F              (22 | (42 << 8))
 #define MAP_CERULEAN_CAVE_B1F            (23 | (42 << 8))
 #define MAP_CERULEAN_CAVE_B2F            (24 | (42 << 8))
+#define MAP_CERULEAN_CAVE_B3F            (25 | (42 << 8))
+#define MAP_CERULEAN_CAVE_B4F            (26 | (42 << 8))
 
 // gMapGroup_DungeonsJohto
 

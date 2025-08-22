@@ -5,7 +5,7 @@ SevenIslandTrainerTower_EventScript_Guard::
 	end
 
 SevenIslandTrainerTower_Text_Renovation::
-	.string "Sorry. You can't go in.\n"
+	.string "Sorry. You can't go in.\p"
 	.string "TRAINER TOWER is being renovated.\p"
 	.string "New ownership, you see. Don't worry,\n"
 	.string "I'll let you in when they're done.$"
