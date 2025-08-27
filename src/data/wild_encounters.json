@@ -20353,7 +20353,7 @@
               },
               {
                 "min_level": 45,
-                "max_level": 55,
+                "max_level": 50,
                 "species": "SPECIES_SLAKING"
               },
               {
@@ -20362,8 +20362,8 @@
                 "species": "SPECIES_URSARING"
               },
               {
-                "min_level": 55,
-                "max_level": 60,
+                "min_level": 50,
+                "max_level": 55,
                 "species": "SPECIES_SLAKING"
               }
             ]
@@ -20616,22 +20616,22 @@
             "mons": [
               {
                 "min_level": 45,
-                "max_level": 55,
+                "max_level": 50,
                 "species": "SPECIES_GRAVELER"
               },
               {
                 "min_level": 45,
-                "max_level": 55,
+                "max_level": 50,
                 "species": "SPECIES_KANGASKHAN"
               },
               {
                 "min_level": 45,
-                "max_level": 55,
+                "max_level": 50,
                 "species": "SPECIES_MACHOKE"
               },
               {
                 "min_level": 45,
-                "max_level": 55,
+                "max_level": 50,
                 "species": "SPECIES_SANDSLASH"
               },
               {
@@ -20641,7 +20641,7 @@
               },
               {
                 "min_level": 45,
-                "max_level": 55,
+                "max_level": 50,
                 "species": "SPECIES_MAROWAK"
               },
               {
@@ -22502,7 +22502,7 @@
               {
                 "min_level": 64,
                 "max_level": 64,
-                "species": "SPECIES_ELECTRODE"
+                "species": "SPECIES_BRELOOM"
               },
               {
                 "min_level": 66,

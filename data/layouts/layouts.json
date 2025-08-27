@@ -7596,6 +7596,18 @@
       "secondary_tileset": "gTileset_MeteorFalls",
       "border_filepath": "data/layouts/CeruleanCaveB4F/border.bin",
       "blockdata_filepath": "data/layouts/CeruleanCaveB4F/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE15CLEARING",
+      "name": "Route15Clearing_Layout",
+      "width": 20,
+      "height": 40,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Fuchsia",
+      "border_filepath": "data/layouts/Route15Clearing/border.bin",
+      "blockdata_filepath": "data/layouts/Route15Clearing/map.bin"
     }
   ]
 }

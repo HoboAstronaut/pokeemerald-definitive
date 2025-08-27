@@ -806,6 +806,7 @@
 #define MAP_INDIGO_PLATEAU        (37 | (45 << 8))
 #define MAP_ROUTE24               (38 | (45 << 8))
 #define MAP_ROUTE25               (39 | (45 << 8))
+#define MAP_ROUTE15CLEARING       (40 | (45 << 8))
 
 // gMapGroup_TownsAndRoutesJohto
 
