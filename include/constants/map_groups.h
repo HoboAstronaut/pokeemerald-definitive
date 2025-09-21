@@ -730,6 +730,10 @@
 #define MAP_CERULEAN_CAVE_B2F            (24 | (42 << 8))
 #define MAP_CERULEAN_CAVE_B3F            (25 | (42 << 8))
 #define MAP_CERULEAN_CAVE_B4F            (26 | (42 << 8))
+#define MAP_KANTO_SAFARI_ZONE_CENTER     (27 | (42 << 8))
+#define MAP_KANTO_SAFARI_ZONE_EAST       (28 | (42 << 8))
+#define MAP_KANTO_SAFARI_ZONE_NORTH      (29 | (42 << 8))
+#define MAP_KANTO_SAFARI_ZONE_WEST       (30 | (42 << 8))
 
 // gMapGroup_DungeonsJohto
 

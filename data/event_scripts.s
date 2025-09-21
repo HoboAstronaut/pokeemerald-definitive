@@ -1442,3 +1442,11 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/CeruleanCaveB4F/scripts.inc"
 
 	.include "data/maps/Route15Clearing/scripts.inc"
+
+	.include "data/maps/KantoSafariZoneCenter/scripts.inc"
+
+	.include "data/maps/KantoSafariZoneEast/scripts.inc"
+
+	.include "data/maps/KantoSafariZoneNorth/scripts.inc"
+
+	.include "data/maps/KantoSafariZoneWest/scripts.inc"

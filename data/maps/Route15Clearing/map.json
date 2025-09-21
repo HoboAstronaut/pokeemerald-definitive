@@ -2,7 +2,7 @@
   "id": "MAP_ROUTE15CLEARING",
   "name": "Route15Clearing",
   "layout": "LAYOUT_ROUTE15CLEARING",
-  "music": "MUS_RG_ROUTE3",
+  "music": "MUS_ROUTE104",
   "region_map_section": "MAPSEC_ROUTE_15",
   "requires_flash": false,
   "weather": "WEATHER_NONE",
@@ -17,7 +17,27 @@
 
   ],
   "warp_events": [
-
+    {
+      "x": 12,
+      "y": 31,
+      "elevation": 0,
+      "dest_map": "MAP_ROUTE15",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 11,
+      "y": 31,
+      "elevation": 0,
+      "dest_map": "MAP_ROUTE15",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 13,
+      "y": 31,
+      "elevation": 0,
+      "dest_map": "MAP_ROUTE15",
+      "dest_warp_id": "1"
+    }
   ],
   "coord_events": [
 

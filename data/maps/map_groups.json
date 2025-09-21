@@ -772,7 +772,11 @@
     "CeruleanCaveB1F",
     "CeruleanCaveB2F",
     "CeruleanCaveB3F",
-    "CeruleanCaveB4F"
+    "CeruleanCaveB4F",
+    "KantoSafariZoneCenter",
+    "KantoSafariZoneEast",
+    "KantoSafariZoneNorth",
+    "KantoSafariZoneWest"
   ],
   "gMapGroup_DungeonsJohto": [
 

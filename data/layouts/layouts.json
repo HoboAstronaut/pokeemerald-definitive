@@ -7600,14 +7600,62 @@
     {
       "id": "LAYOUT_ROUTE15CLEARING",
       "name": "Route15Clearing_Layout",
-      "width": 20,
+      "width": 40,
+      "height": 40,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_berryforest",
+      "border_filepath": "data/layouts/Route15Clearing/border.bin",
+      "blockdata_filepath": "data/layouts/Route15Clearing/map.bin"
+    },
+    {
+      "id": "LAYOUT_KANTO_SAFARI_ZONE_CENTER",
+      "name": "KantoSafariZoneCenter_Layout",
+      "width": 51,
+      "height": 36,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Fuchsia",
+      "border_filepath": "data/layouts/KantoSafariZoneCenter/border.bin",
+      "blockdata_filepath": "data/layouts/KantoSafariZoneCenter/map.bin"
+    },
+    {
+      "id": "LAYOUT_KANTO_SAFARI_ZONE_EAST",
+      "name": "KantoSafariZoneEast_Layout",
+      "width": 54,
+      "height": 35,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Fuchsia",
+      "border_filepath": "data/layouts/KantoSafariZoneEast/border.bin",
+      "blockdata_filepath": "data/layouts/KantoSafariZoneEast/map.bin"
+    },
+    {
+      "id": "LAYOUT_KANTO_SAFARI_ZONE_NORTH",
+      "name": "KantoSafariZoneNorth_Layout",
+      "width": 57,
       "height": 40,
       "border_width": 2,
       "border_height": 2,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Fuchsia",
-      "border_filepath": "data/layouts/Route15Clearing/border.bin",
-      "blockdata_filepath": "data/layouts/Route15Clearing/map.bin"
+      "border_filepath": "data/layouts/KantoSafariZoneNorth/border.bin",
+      "blockdata_filepath": "data/layouts/KantoSafariZoneNorth/map.bin"
+    },
+    {
+      "id": "LAYOUT_KANTO_SAFARI_ZONE_WEST",
+      "name": "KantoSafariZoneWest_Layout",
+      "width": 48,
+      "height": 36,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Fuchsia",
+      "border_filepath": "data/layouts/KantoSafariZoneWest/border.bin",
+      "blockdata_filepath": "data/layouts/KantoSafariZoneWest/map.bin"
     }
   ]
 }
