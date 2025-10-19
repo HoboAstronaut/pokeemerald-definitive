@@ -776,7 +776,8 @@
     "KantoSafariZoneCenter",
     "KantoSafariZoneEast",
     "KantoSafariZoneNorth",
-    "KantoSafariZoneWest"
+    "KantoSafariZoneWest",
+    "TohjoFalls"
   ],
   "gMapGroup_DungeonsJohto": [
 
@@ -854,7 +855,11 @@
     "IndigoPlateau",
     "Route24",
     "Route25",
-    "Route15Clearing"
+    "Route15Clearing",
+    "Route26",
+    "Route27West",
+    "Route27East",
+    "Route28"
   ],
   "gMapGroup_TownsAndRoutesJohto": [
 

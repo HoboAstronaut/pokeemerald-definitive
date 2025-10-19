@@ -734,6 +734,7 @@
 #define MAP_KANTO_SAFARI_ZONE_EAST       (28 | (42 << 8))
 #define MAP_KANTO_SAFARI_ZONE_NORTH      (29 | (42 << 8))
 #define MAP_KANTO_SAFARI_ZONE_WEST       (30 | (42 << 8))
+#define MAP_TOHJO_FALLS                  (31 | (42 << 8))
 
 // gMapGroup_DungeonsJohto
 
@@ -811,6 +812,10 @@
 #define MAP_ROUTE24               (38 | (45 << 8))
 #define MAP_ROUTE25               (39 | (45 << 8))
 #define MAP_ROUTE15CLEARING       (40 | (45 << 8))
+#define MAP_ROUTE26               (41 | (45 << 8))
+#define MAP_ROUTE27WEST           (42 | (45 << 8))
+#define MAP_ROUTE27EAST           (43 | (45 << 8))
+#define MAP_ROUTE28               (44 | (45 << 8))
 
 // gMapGroup_TownsAndRoutesJohto
 

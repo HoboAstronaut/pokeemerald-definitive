@@ -149,6 +149,13 @@
       "elevation": 0,
       "dest_map": "MAP_INDIGO_PLATEAU",
       "dest_warp_id": "0"
+    },
+    {
+      "x": 19,
+      "y": 21,
+      "elevation": 0,
+      "dest_map": "MAP_ROUTE26",
+      "dest_warp_id": "0"
     }
   ],
   "coord_events": [

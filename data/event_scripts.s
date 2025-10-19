@@ -1450,3 +1450,13 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/KantoSafariZoneNorth/scripts.inc"
 
 	.include "data/maps/KantoSafariZoneWest/scripts.inc"
+
+	.include "data/maps/Route26/scripts.inc"
+
+	.include "data/maps/Route27West/scripts.inc"
+
+	.include "data/maps/Route27East/scripts.inc"
+
+	.include "data/maps/Route28/scripts.inc"
+
+	.include "data/maps/TohjoFalls/scripts.inc"
