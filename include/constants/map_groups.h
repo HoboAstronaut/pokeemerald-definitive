@@ -818,6 +818,10 @@
 #define MAP_ROUTE28               (44 | (45 << 8))
 
 // gMapGroup_TownsAndRoutesJohto
+#define MAP_NEW_BARK_TOWN    (0 | (46 << 8))
+#define MAP_ROUTE29          (1 | (46 << 8))
+#define MAP_CHERRYGROVE_CITY (2 | (46 << 8))
+#define MAP_ROUTE30          (3 | (46 << 8))
 
 #define MAP_GROUPS_COUNT 47
 
