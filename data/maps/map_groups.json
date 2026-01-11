@@ -780,7 +780,7 @@
     "TohjoFalls"
   ],
   "gMapGroup_DungeonsJohto": [
-
+    "DarkCaveSouth"
   ],
   "gMapGroup_TownsAndRoutesSevii": [
     "OneIsland",
@@ -865,6 +865,8 @@
     "NewBarkTown",
     "Route29",
     "CherrygroveCity",
-    "Route30"
+    "Route30",
+    "Route31",
+    "VioletCity"
   ]
 }

@@ -1001,3 +1001,14 @@ const struct Tileset gTileset_NewBark =
     .metatileAttributes = gMetatileAttributes_NewBark,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_Violet =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_Violet,
+    .palettes = gTilesetPalettes_Violet,
+    .metatiles = gMetatiles_Violet,
+    .metatileAttributes = gMetatileAttributes_Violet,
+    .callback = NULL,
+};

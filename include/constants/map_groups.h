@@ -737,6 +737,7 @@
 #define MAP_TOHJO_FALLS                  (31 | (42 << 8))
 
 // gMapGroup_DungeonsJohto
+#define MAP_DARK_CAVE_SOUTH (0 | (43 << 8))
 
 // gMapGroup_TownsAndRoutesSevii
 #define MAP_ONE_ISLAND                       (0 | (44 << 8))
@@ -822,6 +823,8 @@
 #define MAP_ROUTE29          (1 | (46 << 8))
 #define MAP_CHERRYGROVE_CITY (2 | (46 << 8))
 #define MAP_ROUTE30          (3 | (46 << 8))
+#define MAP_ROUTE31          (4 | (46 << 8))
+#define MAP_VIOLET_CITY      (5 | (46 << 8))
 
 #define MAP_GROUPS_COUNT 47
 
