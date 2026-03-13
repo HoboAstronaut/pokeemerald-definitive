@@ -258,3 +258,6 @@ const u16 gMetatileAttributes_NewBark[] = INCBIN_U16("data/tilesets/secondary/ne
 
 const u16 gMetatiles_Violet[] = INCBIN_U16("data/tilesets/secondary/violet/metatiles.bin");
 const u16 gMetatileAttributes_Violet[] = INCBIN_U16("data/tilesets/secondary/violet/metatile_attributes.bin");
+
+const u16 gMetatiles_Azalea[] = INCBIN_U16("data/tilesets/secondary/azalea/metatiles.bin");
+const u16 gMetatileAttributes_Azalea[] = INCBIN_U16("data/tilesets/secondary/azalea/metatile_attributes.bin");

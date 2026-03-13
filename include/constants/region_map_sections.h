@@ -129,7 +129,7 @@
 #define MAPSEC_ROUTE_25                     0x7D
 #define MAPSEC_VIRIDIAN_FOREST              0x7E
 #define MAPSEC_MT_MOON                      0x7F
-#define MAPSEC_S_S_ANNE                     0x80
+#define MAPSEC_SLOWPOKE_WELL                0x80
 #define MAPSEC_UNDERGROUND_PATH             0x81
 #define MAPSEC_UNDERGROUND_PATH_2           0x82
 #define MAPSEC_DIGLETTS_CAVE                0x83

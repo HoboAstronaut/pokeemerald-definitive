@@ -780,7 +780,12 @@
     "TohjoFalls"
   ],
   "gMapGroup_DungeonsJohto": [
-    "DarkCaveSouth"
+    "DarkCaveSouth",
+    "UnionCave1F",
+    "SlowpokeWellEntrance",
+    "SlowpokeWellB1F",
+    "SlowpokeWellB2F",
+    "IlexForest"
   ],
   "gMapGroup_TownsAndRoutesSevii": [
     "OneIsland",
@@ -867,6 +872,9 @@
     "CherrygroveCity",
     "Route30",
     "Route31",
-    "VioletCity"
+    "VioletCity",
+    "Route32",
+    "Route33",
+    "AzaleaTown"
   ]
 }

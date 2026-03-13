@@ -7792,14 +7792,110 @@
     {
       "id": "LAYOUT_DARK_CAVE_SOUTH",
       "name": "DarkCaveSouth_Layout",
-      "width": 48,
-      "height": 40,
+      "width": 50,
+      "height": 45,
       "border_width": 2,
       "border_height": 2,
       "primary_tileset": "gTileset_General",
       "secondary_tileset": "gTileset_Cave",
       "border_filepath": "data/layouts/DarkCaveSouth/border.bin",
       "blockdata_filepath": "data/layouts/DarkCaveSouth/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE32",
+      "name": "Route32_Layout",
+      "width": 30,
+      "height": 120,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Violet",
+      "border_filepath": "data/layouts/Route32/border.bin",
+      "blockdata_filepath": "data/layouts/Route32/map.bin"
+    },
+    {
+      "id": "LAYOUT_UNION_CAVE1F",
+      "name": "UnionCave1F_Layout",
+      "width": 26,
+      "height": 46,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Cave",
+      "border_filepath": "data/layouts/UnionCave1F/border.bin",
+      "blockdata_filepath": "data/layouts/UnionCave1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_ROUTE33",
+      "name": "Route33_Layout",
+      "width": 28,
+      "height": 26,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Azalea",
+      "border_filepath": "data/layouts/Route33/border.bin",
+      "blockdata_filepath": "data/layouts/Route33/map.bin"
+    },
+    {
+      "id": "LAYOUT_AZALEA_TOWN",
+      "name": "AzaleaTown_Layout",
+      "width": 52,
+      "height": 32,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Azalea",
+      "border_filepath": "data/layouts/AzaleaTown/border.bin",
+      "blockdata_filepath": "data/layouts/AzaleaTown/map.bin"
+    },
+    {
+      "id": "LAYOUT_SLOWPOKE_WELL_ENTRANCE",
+      "name": "SlowpokeWellEntrance_Layout",
+      "width": 20,
+      "height": 20,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_NavelRock",
+      "border_filepath": "data/layouts/SlowpokeWellEntrance/border.bin",
+      "blockdata_filepath": "data/layouts/SlowpokeWellEntrance/map.bin"
+    },
+    {
+      "id": "LAYOUT_SLOWPOKE_WELL_B1F",
+      "name": "SlowpokeWellB1F_Layout",
+      "width": 32,
+      "height": 24,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_NavelRock",
+      "border_filepath": "data/layouts/SlowpokeWellB1F/border.bin",
+      "blockdata_filepath": "data/layouts/SlowpokeWellB1F/map.bin"
+    },
+    {
+      "id": "LAYOUT_SLOWPOKE_WELL_B2F",
+      "name": "SlowpokeWellB2F_Layout",
+      "width": 32,
+      "height": 25,
+      "border_width": 2,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_NavelRock",
+      "border_filepath": "data/layouts/SlowpokeWellB2F/border.bin",
+      "blockdata_filepath": "data/layouts/SlowpokeWellB2F/map.bin"
+    },
+    {
+      "id": "LAYOUT_ILEX_FOREST",
+      "name": "IlexForest_Layout",
+      "width": 54,
+      "height": 62,
+      "border_width": 3,
+      "border_height": 2,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_berryforest",
+      "border_filepath": "data/layouts/IlexForest/border.bin",
+      "blockdata_filepath": "data/layouts/IlexForest/map.bin"
     }
   ]
 }

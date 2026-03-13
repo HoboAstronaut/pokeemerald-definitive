@@ -1474,3 +1474,19 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/VioletCity/scripts.inc"
 
 	.include "data/maps/DarkCaveSouth/scripts.inc"
+
+	.include "data/maps/Route32/scripts.inc"
+
+	.include "data/maps/UnionCave1F/scripts.inc"
+
+	.include "data/maps/Route33/scripts.inc"
+
+	.include "data/maps/AzaleaTown/scripts.inc"
+
+	.include "data/maps/SlowpokeWellEntrance/scripts.inc"
+
+	.include "data/maps/SlowpokeWellB1F/scripts.inc"
+
+	.include "data/maps/SlowpokeWellB2F/scripts.inc"
+
+	.include "data/maps/IlexForest/scripts.inc"

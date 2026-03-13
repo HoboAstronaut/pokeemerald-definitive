@@ -1957,3 +1957,22 @@ const u16 gTilesetPalettes_Violet[][16] =
 };
 
 const u32 gTilesetTiles_Violet[] = INCBIN_U32("data/tilesets/secondary/violet/tiles.4bpp.lz");
+
+const u16 gTilesetPalettes_Azalea[][16] =
+{
+    INCBIN_U16("data/tilesets/secondary/azalea/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/azalea/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/azalea/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/azalea/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/azalea/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/azalea/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/azalea/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/azalea/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/azalea/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/azalea/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/azalea/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/azalea/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/azalea/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_Azalea[] = INCBIN_U32("data/tilesets/secondary/azalea/tiles.4bpp.lz");

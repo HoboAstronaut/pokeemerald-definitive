@@ -737,7 +737,12 @@
 #define MAP_TOHJO_FALLS                  (31 | (42 << 8))
 
 // gMapGroup_DungeonsJohto
-#define MAP_DARK_CAVE_SOUTH (0 | (43 << 8))
+#define MAP_DARK_CAVE_SOUTH        (0 | (43 << 8))
+#define MAP_UNION_CAVE1F           (1 | (43 << 8))
+#define MAP_SLOWPOKE_WELL_ENTRANCE (2 | (43 << 8))
+#define MAP_SLOWPOKE_WELL_B1F      (3 | (43 << 8))
+#define MAP_SLOWPOKE_WELL_B2F      (4 | (43 << 8))
+#define MAP_ILEX_FOREST            (5 | (43 << 8))
 
 // gMapGroup_TownsAndRoutesSevii
 #define MAP_ONE_ISLAND                       (0 | (44 << 8))
@@ -825,6 +830,9 @@
 #define MAP_ROUTE30          (3 | (46 << 8))
 #define MAP_ROUTE31          (4 | (46 << 8))
 #define MAP_VIOLET_CITY      (5 | (46 << 8))
+#define MAP_ROUTE32          (6 | (46 << 8))
+#define MAP_ROUTE33          (7 | (46 << 8))
+#define MAP_AZALEA_TOWN      (8 | (46 << 8))
 
 #define MAP_GROUPS_COUNT 47
 
