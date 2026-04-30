@@ -18,15 +18,15 @@
   ],
   "warp_events": [
     {
-      "x": 22,
-      "y": 20,
+      "x": 24,
+      "y": 22,
       "elevation": 0,
       "dest_map": "MAP_SLOWPOKE_WELL_ENTRANCE",
       "dest_warp_id": "1"
     },
     {
-      "x": 9,
-      "y": 15,
+      "x": 11,
+      "y": 17,
       "elevation": 0,
       "dest_map": "MAP_SLOWPOKE_WELL_B2F",
       "dest_warp_id": "0"

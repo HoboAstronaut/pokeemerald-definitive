@@ -261,3 +261,12 @@ const u16 gMetatileAttributes_Violet[] = INCBIN_U16("data/tilesets/secondary/vio
 
 const u16 gMetatiles_Azalea[] = INCBIN_U16("data/tilesets/secondary/azalea/metatiles.bin");
 const u16 gMetatileAttributes_Azalea[] = INCBIN_U16("data/tilesets/secondary/azalea/metatile_attributes.bin");
+
+const u16 gMetatiles_Goldenrod[] = INCBIN_U16("data/tilesets/secondary/goldenrod/metatiles.bin");
+const u16 gMetatileAttributes_Goldenrod[] = INCBIN_U16("data/tilesets/secondary/goldenrod/metatile_attributes.bin");
+
+const u16 gMetatiles_NationalPark[] = INCBIN_U16("data/tilesets/secondary/national_park/metatiles.bin");
+const u16 gMetatileAttributes_NationalPark[] = INCBIN_U16("data/tilesets/secondary/national_park/metatile_attributes.bin");
+
+const u16 gMetatiles_RuinsOfAlph[] = INCBIN_U16("data/tilesets/secondary/ruins_of_alph/metatiles.bin");
+const u16 gMetatileAttributes_RuinsOfAlph[] = INCBIN_U16("data/tilesets/secondary/ruins_of_alph/metatile_attributes.bin");

@@ -785,7 +785,10 @@
     "SlowpokeWellEntrance",
     "SlowpokeWellB1F",
     "SlowpokeWellB2F",
-    "IlexForest"
+    "IlexForest",
+    "RuinsofAlph",
+    "UnionCaveB1F",
+    "UnionCaveB2F"
   ],
   "gMapGroup_TownsAndRoutesSevii": [
     "OneIsland",
@@ -875,6 +878,11 @@
     "VioletCity",
     "Route32",
     "Route33",
-    "AzaleaTown"
+    "AzaleaTown",
+    "Route34",
+    "GoldenrodCity",
+    "Route35",
+    "Route36",
+    "NationalPark"
   ]
 }

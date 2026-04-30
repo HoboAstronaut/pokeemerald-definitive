@@ -1490,3 +1490,19 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/SlowpokeWellB2F/scripts.inc"
 
 	.include "data/maps/IlexForest/scripts.inc"
+
+	.include "data/maps/Route34/scripts.inc"
+
+	.include "data/maps/GoldenrodCity/scripts.inc"
+
+	.include "data/maps/Route35/scripts.inc"
+
+	.include "data/maps/Route36/scripts.inc"
+
+	.include "data/maps/NationalPark/scripts.inc"
+
+	.include "data/maps/RuinsofAlph/scripts.inc"
+
+	.include "data/maps/UnionCaveB1F/scripts.inc"
+
+	.include "data/maps/UnionCaveB2F/scripts.inc"

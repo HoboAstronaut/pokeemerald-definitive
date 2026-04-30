@@ -1976,3 +1976,60 @@ const u16 gTilesetPalettes_Azalea[][16] =
 };
 
 const u32 gTilesetTiles_Azalea[] = INCBIN_U32("data/tilesets/secondary/azalea/tiles.4bpp.lz");
+
+const u16 gTilesetPalettes_Goldenrod[][16] =
+{
+    INCBIN_U16("data/tilesets/secondary/goldenrod/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/goldenrod/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/goldenrod/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/goldenrod/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/goldenrod/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/goldenrod/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/goldenrod/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/goldenrod/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/goldenrod/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/goldenrod/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/goldenrod/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/goldenrod/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/goldenrod/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_Goldenrod[] = INCBIN_U32("data/tilesets/secondary/goldenrod/tiles.4bpp.lz");
+
+const u16 gTilesetPalettes_NationalPark[][16] =
+{
+    INCBIN_U16("data/tilesets/secondary/national_park/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/national_park/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/national_park/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/national_park/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/national_park/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/national_park/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/national_park/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/national_park/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/national_park/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/national_park/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/national_park/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/national_park/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/national_park/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_NationalPark[] = INCBIN_U32("data/tilesets/secondary/national_park/tiles.4bpp.lz");
+
+const u16 gTilesetPalettes_RuinsOfAlph[][16] =
+{
+    INCBIN_U16("data/tilesets/secondary/ruins_of_alph/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/ruins_of_alph/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/ruins_of_alph/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/ruins_of_alph/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/ruins_of_alph/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/ruins_of_alph/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/ruins_of_alph/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/ruins_of_alph/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/ruins_of_alph/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/ruins_of_alph/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/ruins_of_alph/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/ruins_of_alph/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/ruins_of_alph/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_RuinsOfAlph[] = INCBIN_U32("data/tilesets/secondary/ruins_of_alph/tiles.4bpp.lz");

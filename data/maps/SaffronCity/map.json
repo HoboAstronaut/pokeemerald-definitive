@@ -65,6 +65,13 @@
       "elevation": 0,
       "dest_map": "MAP_ROUTE6",
       "dest_warp_id": "1"
+    },
+    {
+      "x": 20,
+      "y": 15,
+      "elevation": 0,
+      "dest_map": "MAP_GOLDENROD_CITY",
+      "dest_warp_id": "2"
     }
   ],
   "coord_events": [

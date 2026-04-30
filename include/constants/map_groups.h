@@ -743,6 +743,9 @@
 #define MAP_SLOWPOKE_WELL_B1F      (3 | (43 << 8))
 #define MAP_SLOWPOKE_WELL_B2F      (4 | (43 << 8))
 #define MAP_ILEX_FOREST            (5 | (43 << 8))
+#define MAP_RUINSOF_ALPH           (6 | (43 << 8))
+#define MAP_UNION_CAVE_B1F         (7 | (43 << 8))
+#define MAP_UNION_CAVE_B2F         (8 | (43 << 8))
 
 // gMapGroup_TownsAndRoutesSevii
 #define MAP_ONE_ISLAND                       (0 | (44 << 8))
@@ -833,6 +836,11 @@
 #define MAP_ROUTE32          (6 | (46 << 8))
 #define MAP_ROUTE33          (7 | (46 << 8))
 #define MAP_AZALEA_TOWN      (8 | (46 << 8))
+#define MAP_ROUTE34          (9 | (46 << 8))
+#define MAP_GOLDENROD_CITY   (10 | (46 << 8))
+#define MAP_ROUTE35          (11 | (46 << 8))
+#define MAP_ROUTE36          (12 | (46 << 8))
+#define MAP_NATIONAL_PARK    (13 | (46 << 8))
 
 #define MAP_GROUPS_COUNT 47
 
