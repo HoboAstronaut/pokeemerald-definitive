@@ -270,3 +270,9 @@ const u16 gMetatileAttributes_NationalPark[] = INCBIN_U16("data/tilesets/seconda
 
 const u16 gMetatiles_RuinsOfAlph[] = INCBIN_U16("data/tilesets/secondary/ruins_of_alph/metatiles.bin");
 const u16 gMetatileAttributes_RuinsOfAlph[] = INCBIN_U16("data/tilesets/secondary/ruins_of_alph/metatile_attributes.bin");
+
+const u16 gMetatiles_Ecruteak[] = INCBIN_U16("data/tilesets/secondary/ecruteak/metatiles.bin");
+const u16 gMetatileAttributes_Ecruteak[] = INCBIN_U16("data/tilesets/secondary/ecruteak/metatile_attributes.bin");
+
+const u16 gMetatiles_Olivine[] = INCBIN_U16("data/tilesets/secondary/olivine/metatiles.bin");
+const u16 gMetatileAttributes_Olivine[] = INCBIN_U16("data/tilesets/secondary/olivine/metatile_attributes.bin");

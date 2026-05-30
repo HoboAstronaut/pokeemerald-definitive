@@ -2033,3 +2033,41 @@ const u16 gTilesetPalettes_RuinsOfAlph[][16] =
 };
 
 const u32 gTilesetTiles_RuinsOfAlph[] = INCBIN_U32("data/tilesets/secondary/ruins_of_alph/tiles.4bpp.lz");
+
+const u16 gTilesetPalettes_Ecruteak[][16] =
+{
+    INCBIN_U16("data/tilesets/secondary/ecruteak/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/ecruteak/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/ecruteak/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/ecruteak/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/ecruteak/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/ecruteak/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/ecruteak/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/ecruteak/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/ecruteak/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/ecruteak/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/ecruteak/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/ecruteak/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/ecruteak/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_Ecruteak[] = INCBIN_U32("data/tilesets/secondary/ecruteak/tiles.4bpp.lz");
+
+const u16 gTilesetPalettes_Olivine[][16] =
+{
+    INCBIN_U16("data/tilesets/secondary/olivine/palettes/00.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/olivine/palettes/01.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/olivine/palettes/02.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/olivine/palettes/03.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/olivine/palettes/04.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/olivine/palettes/05.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/olivine/palettes/06.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/olivine/palettes/07.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/olivine/palettes/08.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/olivine/palettes/09.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/olivine/palettes/10.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/olivine/palettes/11.gbapal"),
+    INCBIN_U16("data/tilesets/secondary/olivine/palettes/12.gbapal"),
+};
+
+const u32 gTilesetTiles_Olivine[] = INCBIN_U32("data/tilesets/secondary/olivine/tiles.4bpp.lz");

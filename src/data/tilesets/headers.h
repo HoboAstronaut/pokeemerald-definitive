@@ -1056,3 +1056,25 @@ const struct Tileset gTileset_RuinsOfAlph =
     .metatileAttributes = gMetatileAttributes_RuinsOfAlph,
     .callback = NULL,
 };
+
+const struct Tileset gTileset_Ecruteak =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_Ecruteak,
+    .palettes = gTilesetPalettes_Ecruteak,
+    .metatiles = gMetatiles_Ecruteak,
+    .metatileAttributes = gMetatileAttributes_Ecruteak,
+    .callback = NULL,
+};
+
+const struct Tileset gTileset_Olivine =
+{
+    .isCompressed = TRUE,
+    .isSecondary = TRUE,
+    .tiles = gTilesetTiles_Olivine,
+    .palettes = gTilesetPalettes_Olivine,
+    .metatiles = gMetatiles_Olivine,
+    .metatileAttributes = gMetatileAttributes_Olivine,
+    .callback = NULL,
+};

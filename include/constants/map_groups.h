@@ -841,6 +841,11 @@
 #define MAP_ROUTE35          (11 | (46 << 8))
 #define MAP_ROUTE36          (12 | (46 << 8))
 #define MAP_NATIONAL_PARK    (13 | (46 << 8))
+#define MAP_ROUTE37          (14 | (46 << 8))
+#define MAP_ECRUTEAK_CITY    (15 | (46 << 8))
+#define MAP_ROUTE38          (16 | (46 << 8))
+#define MAP_ROUTE39          (17 | (46 << 8))
+#define MAP_OLIVINE_CITY     (18 | (46 << 8))
 
 #define MAP_GROUPS_COUNT 47
 
