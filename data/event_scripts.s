@@ -1516,3 +1516,39 @@ Common_EventScript_LegendaryFlewAway::
 	.include "data/maps/Route39/scripts.inc"
 
 	.include "data/maps/OlivineCity/scripts.inc"
+
+	.include "data/maps/Route40/scripts.inc"
+
+	.include "data/maps/Route41/scripts.inc"
+
+	.include "data/maps/CianwoodCity/scripts.inc"
+
+	.include "data/maps/OlivineCityHarbor/scripts.inc"
+
+	.include "data/maps/Route40Underwater/scripts.inc"
+
+	.include "data/maps/Route41Underwater/scripts.inc"
+
+	.include "data/maps/WhirlIslands1FNorthwest/scripts.inc"
+
+	.include "data/maps/WhirlIslands1FNortheast/scripts.inc"
+
+	.include "data/maps/WhirlIslands1FSouthwest/scripts.inc"
+
+	.include "data/maps/WhirlIslands1FSoutheast/scripts.inc"
+
+	.include "data/maps/WhirlIslandsB1F/scripts.inc"
+
+	.include "data/maps/WhirlIslandsB2F/scripts.inc"
+
+	.include "data/maps/WhirlIslandsB3F/scripts.inc"
+
+	.include "data/maps/Route42/scripts.inc"
+
+	.include "data/maps/MtMortar1FEntrance/scripts.inc"
+
+	.include "data/maps/MtMortar1FInterior/scripts.inc"
+
+	.include "data/maps/MtMortar2F/scripts.inc"
+
+	.include "data/maps/MtMortarB1F/scripts.inc"

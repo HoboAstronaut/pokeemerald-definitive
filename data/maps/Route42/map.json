@@ -1,0 +1,54 @@
+{
+  "id": "MAP_ROUTE42",
+  "name": "Route42",
+  "layout": "LAYOUT_ROUTE42",
+  "music": "MUS_RG_SEVII_ROUTE",
+  "region_map_section": "MAPSEC_ROUTE_42",
+  "requires_flash": false,
+  "weather": "WEATHER_SUNNY_CLOUDS",
+  "map_type": "MAP_TYPE_ROUTE",
+  "allow_cycling": true,
+  "allow_escaping": false,
+  "allow_running": true,
+  "show_map_name": true,
+  "battle_scene": "MAP_BATTLE_SCENE_NORMAL",
+  "connections": [
+    {
+      "map": "MAP_ECRUTEAK_CITY",
+      "offset": -14,
+      "direction": "left"
+    }
+  ],
+  "object_events": [
+
+  ],
+  "warp_events": [
+    {
+      "x": 17,
+      "y": 11,
+      "elevation": 0,
+      "dest_map": "MAP_MT_MORTAR1FENTRANCE",
+      "dest_warp_id": "0"
+    },
+    {
+      "x": 40,
+      "y": 16,
+      "elevation": 0,
+      "dest_map": "MAP_MT_MORTAR1FENTRANCE",
+      "dest_warp_id": "1"
+    },
+    {
+      "x": 61,
+      "y": 14,
+      "elevation": 0,
+      "dest_map": "MAP_MT_MORTAR1FENTRANCE",
+      "dest_warp_id": "2"
+    }
+  ],
+  "coord_events": [
+
+  ],
+  "bg_events": [
+
+  ]
+}
